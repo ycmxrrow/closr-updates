@@ -1,9 +1,9 @@
 {
  "version": "2.4.2",
  "file": "releases/CLOSR-update-2.4.2.closr",
- "sha256": "7c6e7ada5dab9bcd9819eb874975f651bb6fa0ddb35b1e87ad00367a6cfeeb21",
- "size": 356524,
- "notes": "Cloud updates now read latest.json from your repository and check each download's fingerprint. Renewal reminder 14 days before the publishing token expires.",
- "published": "2026-10-30T15:37:09Z",
+ "sha256": "38dedd1908e5f596c9837ab9b23024ff768d01b46bb3353fd85e500188f941c1",
+ "size": 356527,
+ "notes": "Cloud updates from ycmxrrow/closr-updates, fingerprint-checked; renewal reminder 14 days before the publishing token expires.",
+ "published": "2026-10-30T15:39:54Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
