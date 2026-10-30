@@ -1,9 +1,9 @@
 {
- "version": "2.5.4",
- "file": "releases/CLOSR-update-2.5.4.closr",
- "sha256": "1e03da21b03463cc421bbd98937deb284cab6fc84f7f2b433cef614fea909afd",
- "size": 370372,
- "notes": "After an update or restart, CLOSR reconnects Salesforce and Outlook on its own in the background. If Salesforce needs your password, one click on Reconnect Salesforce opens the sign-in right away and closes it when you are in.",
- "published": "2026-10-30T16:35:32Z",
+ "version": "2.6.0",
+ "file": "releases/CLOSR-update-2.6.0.closr",
+ "sha256": "6f8cb91856931415c435ce827ff62aae5a39b12955124e011af5fcfa5e5d67e0",
+ "size": 374882,
+ "notes": "RingCentral: Connect RingCentral once and Calls & texts shows every call in and out (answered or missed, with length), texts and voicemails, matched to your accounts by phone number. Real phone conversations count as worked in Today. Calls from numbers not in your accounts are never matched by name.",
+ "published": "2026-10-30T18:13:16Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
