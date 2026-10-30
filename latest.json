@@ -1,9 +1,9 @@
 {
- "version": "2.4.4",
- "file": "releases/CLOSR-update-2.4.4.closr",
- "sha256": "604a704ff6c0526ae7b54bf434391988292c8350e7546931ec2b9e86c4538673",
- "size": 358294,
- "notes": "Drag the Ideas panel anywhere by its header (double-click the header to put it back). When Salesforce, Cloud and Start with Windows are all good, the top bar tucks them away and shows only the version; click the version to see them.",
- "published": "2026-10-30T15:50:03Z",
+ "version": "2.4.5",
+ "file": "releases/CLOSR-update-2.4.5.closr",
+ "sha256": "195deeab36243000f4ef029e8055b80fa9d4dc98f29e760fbea7bd2a0ac5f212",
+ "size": 358459,
+ "notes": "Mac-style scrollbars: thin and see-through, shown while you scroll or hover, hidden otherwise.",
+ "published": "2026-10-30T15:52:36Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
