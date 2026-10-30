@@ -1,9 +1,9 @@
 {
- "version": "2.9.4",
- "file": "releases/CLOSR-update-2.9.4.closr",
- "sha256": "6a9983f2c9f91c1f7f34acb3434c9458aba34d4932cfd7a132215b4f74c9f4af",
- "size": 398804,
- "notes": "NewBiz tab bar now sits above every floating element so nothing can block Silent accounts or Open prospects. Copy error log (tray menu) now also reports what is under each NewBiz tab on your screen.",
- "published": "2026-10-30T19:26:37Z",
+ "version": "2.10.0",
+ "file": "releases/CLOSR-update-2.10.0.closr",
+ "sha256": "388e9bfe8fbe69a12ceffaf4424491a44fac2516c23de1e11e79f0f2ceec46d6",
+ "size": 400535,
+ "notes": "Speed pass: Pipeline and All tasks & notes draw about 7x faster (visible rows first, unchanged tables are not redrawn); decorative animations settle instead of running nonstop and pause when CLOSR is in the background; offscreen content is not painted; graphics drawing uses the GPU; Outlook checks are lighter (every 15 minutes, Archive every third check). Fix: closingbot My plans with win-back roadmaps.",
+ "published": "2026-10-30T19:34:46Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
