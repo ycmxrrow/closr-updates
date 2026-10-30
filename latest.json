@@ -1,9 +1,9 @@
 {
- "version": "2.9.3",
- "file": "releases/CLOSR-update-2.9.3.closr",
- "sha256": "95e1966d213d456bbecb9ff4a27797a1a507ca139dd396f4ff2cd562a1c19df6",
- "size": 397978,
- "notes": "Silent accounts and Open prospects always open: a bad Salesforce record is skipped instead of breaking the tab, and if a tab still cannot draw it says why. New tray item: Copy error log.",
- "published": "2026-10-30T19:21:32Z",
+ "version": "2.9.4",
+ "file": "releases/CLOSR-update-2.9.4.closr",
+ "sha256": "6a9983f2c9f91c1f7f34acb3434c9458aba34d4932cfd7a132215b4f74c9f4af",
+ "size": 398804,
+ "notes": "NewBiz tab bar now sits above every floating element so nothing can block Silent accounts or Open prospects. Copy error log (tray menu) now also reports what is under each NewBiz tab on your screen.",
+ "published": "2026-10-30T19:26:37Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
