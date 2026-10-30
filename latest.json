@@ -1,9 +1,9 @@
 {
- "version": "2.8.0",
- "file": "releases/CLOSR-update-2.8.0.closr",
- "sha256": "73e539d6dc80ad03691979dc102a16251c24becd425b23d145052e3f1a7c68a1",
- "size": 390779,
- "notes": "NewBiz > Open prospects: unowned prospects from Dead through Quoting, pulled live from Salesforce (read-only), each company once (duplicate records merged), with active customers, other reps' accounts and your pipeline removed. Silent accounts get the same cleanup. Each has a closing roadmap built from its real Salesforce history.",
- "published": "2026-10-30T18:50:42Z",
+ "version": "2.9.0",
+ "file": "releases/CLOSR-update-2.9.0.closr",
+ "sha256": "dc55f47cb01aadf0d3569bce91993eb6d23837713a34f434f7e6e3bc2b2ffad4",
+ "size": 394204,
+ "notes": "CLOSR keeps its own database: Silent accounts, Open prospects and the keep-out list are saved on this PC (compact and compressed) and refresh themselves daily when Salesforce is connected; roadmaps reopen offline. Data files are stored compressed (about 94% smaller).",
+ "published": "2026-10-30T18:55:58Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
