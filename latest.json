@@ -1,9 +1,9 @@
 {
- "version": "2.6.1",
- "file": "releases/CLOSR-update-2.6.1.closr",
- "sha256": "7f2294d66be262a2bef2c742d846106df1f10ec3e3d84d7d192f3f5d4e8f05db",
- "size": 375065,
- "notes": "Recognizes every account in your name: customers and prospects as before, plus your pickup/delivery locations under a new Locations filter (kept out of Today and the pipeline numbers). New in Salesforce now counts from the latest refresh.",
- "published": "2026-10-30T18:23:53Z",
+ "version": "2.7.0",
+ "file": "releases/CLOSR-update-2.7.0.closr",
+ "sha256": "65006213dc2c66197a4eefdaec2cca4acf6fd40cbe6d4199c43475e26c63a924",
+ "size": 385780,
+ "notes": "NewBiz > Silent accounts: silent customers and prospects that went quiet, pulled live from Salesforce (read-only), scored on the Hot/Warm/Cool/Cold scale, with a win-back roadmap built from each account's real loads, notes and contacts and a closing goal of the first load back.",
+ "published": "2026-10-30T18:41:26Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
