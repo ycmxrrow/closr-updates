@@ -1,9 +1,9 @@
 {
- "version": "2.5.2",
- "file": "releases/CLOSR-update-2.5.2.closr",
- "sha256": "a5b8a4deb922582db8dc03b68eff6ee3fc290303fc3010f40e0648dd1997f6eb",
- "size": 369082,
- "notes": "Stays signed in to Salesforce and Outlook across restarts and updates. You sign in again only when Salesforce's own security timeout ends the session.",
- "published": "2026-10-30T16:17:43Z",
+ "version": "2.5.3",
+ "file": "releases/CLOSR-update-2.5.3.closr",
+ "sha256": "7678ad41d3cb168a96e31f74a233e9f4878e4ee8b5d7811656166aa82b38a8dd",
+ "size": 369921,
+ "notes": "One-click reconnect: Reconnect Salesforce / Reconnect Outlook try silently first and only open a sign-in window if you need to type something. CLOSR also keeps Salesforce from timing out while it is open.",
+ "published": "2026-10-30T16:23:57Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
