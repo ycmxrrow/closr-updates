@@ -1,9 +1,9 @@
 {
- "version": "2.6.0",
- "file": "releases/CLOSR-update-2.6.0.closr",
- "sha256": "6f8cb91856931415c435ce827ff62aae5a39b12955124e011af5fcfa5e5d67e0",
- "size": 374882,
- "notes": "RingCentral: Connect RingCentral once and Calls & texts shows every call in and out (answered or missed, with length), texts and voicemails, matched to your accounts by phone number. Real phone conversations count as worked in Today. Calls from numbers not in your accounts are never matched by name.",
- "published": "2026-10-30T18:13:16Z",
+ "version": "2.6.1",
+ "file": "releases/CLOSR-update-2.6.1.closr",
+ "sha256": "7f2294d66be262a2bef2c742d846106df1f10ec3e3d84d7d192f3f5d4e8f05db",
+ "size": 375065,
+ "notes": "Recognizes every account in your name: customers and prospects as before, plus your pickup/delivery locations under a new Locations filter (kept out of Today and the pipeline numbers). New in Salesforce now counts from the latest refresh.",
+ "published": "2026-10-30T18:23:53Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
