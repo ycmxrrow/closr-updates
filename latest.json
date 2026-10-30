@@ -1,9 +1,9 @@
 {
- "version": "2.4.3",
- "file": "releases/CLOSR-update-2.4.3.closr",
- "sha256": "f996d2e7bb88e4075c14ae7c3a2d27edf22f0331f47d31a282898590ce70fc71",
- "size": 356629,
- "notes": "Salesforce address set to fidefreight.my.salesforce.com. First update delivered through the cloud.",
- "published": "2026-10-30T15:46:35Z",
+ "version": "2.4.4",
+ "file": "releases/CLOSR-update-2.4.4.closr",
+ "sha256": "604a704ff6c0526ae7b54bf434391988292c8350e7546931ec2b9e86c4538673",
+ "size": 358294,
+ "notes": "Drag the Ideas panel anywhere by its header (double-click the header to put it back). When Salesforce, Cloud and Start with Windows are all good, the top bar tucks them away and shows only the version; click the version to see them.",
+ "published": "2026-10-30T15:50:03Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
