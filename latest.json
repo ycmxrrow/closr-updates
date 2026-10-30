@@ -1,9 +1,9 @@
 {
- "version": "2.9.2",
- "file": "releases/CLOSR-update-2.9.2.closr",
- "sha256": "cd9d1f9625b9e1f1de5c43361f9a5bc558dc2d723fc945b8b3b20795cdda7b47",
- "size": 397415,
- "notes": "Speed fix: CLOSR loads your data once and only re-sends what changed; Salesforce, Outlook and RingCentral load side by side; Silent accounts and Open prospects are cleaned in the background and stay clickable while they load.",
- "published": "2026-10-30T19:17:40Z",
+ "version": "2.9.3",
+ "file": "releases/CLOSR-update-2.9.3.closr",
+ "sha256": "95e1966d213d456bbecb9ff4a27797a1a507ca139dd396f4ff2cd562a1c19df6",
+ "size": 397978,
+ "notes": "Silent accounts and Open prospects always open: a bad Salesforce record is skipped instead of breaking the tab, and if a tab still cannot draw it says why. New tray item: Copy error log.",
+ "published": "2026-10-30T19:21:32Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
