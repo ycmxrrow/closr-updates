@@ -1,9 +1,9 @@
 {
- "version": "2.9.1",
- "file": "releases/CLOSR-update-2.9.1.closr",
- "sha256": "c16d44e17690aa5d488aedb820caf41ac2c2ffde72c0d5c80fddbbbce93fb849",
- "size": 394297,
- "notes": "Fix: Silent accounts and Open prospects no longer freeze CLOSR while their lists are saved. Saving now happens in the background and about 80x faster.",
- "published": "2026-10-30T19:01:32Z",
+ "version": "2.9.2",
+ "file": "releases/CLOSR-update-2.9.2.closr",
+ "sha256": "cd9d1f9625b9e1f1de5c43361f9a5bc558dc2d723fc945b8b3b20795cdda7b47",
+ "size": 397415,
+ "notes": "Speed fix: CLOSR loads your data once and only re-sends what changed; Salesforce, Outlook and RingCentral load side by side; Silent accounts and Open prospects are cleaned in the background and stay clickable while they load.",
+ "published": "2026-10-30T19:17:40Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
