@@ -1,9 +1,9 @@
 {
- "version": "2.5.1",
- "file": "releases/CLOSR-update-2.5.1.closr",
- "sha256": "e1ace5076d365a6c9a5bf57144830e3e7bda346b5c9c72acc384c6c42c160397",
- "size": 368344,
- "notes": "Cleaner top bar: only the version shows. Salesforce or Outlook appear only if they disconnect, and Restart only when an update is ready. Click the version for Cloud and Start with Windows.",
- "published": "2026-10-30T16:09:36Z",
+ "version": "2.5.2",
+ "file": "releases/CLOSR-update-2.5.2.closr",
+ "sha256": "a5b8a4deb922582db8dc03b68eff6ee3fc290303fc3010f40e0648dd1997f6eb",
+ "size": 369082,
+ "notes": "Stays signed in to Salesforce and Outlook across restarts and updates. You sign in again only when Salesforce's own security timeout ends the session.",
+ "published": "2026-10-30T16:17:43Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
