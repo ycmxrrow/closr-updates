@@ -1,9 +1,9 @@
 {
- "version": "2.4.2",
- "file": "releases/CLOSR-update-2.4.2.closr",
- "sha256": "38dedd1908e5f596c9837ab9b23024ff768d01b46bb3353fd85e500188f941c1",
- "size": 356527,
- "notes": "Cloud updates from ycmxrrow/closr-updates, fingerprint-checked; renewal reminder 14 days before the publishing token expires.",
- "published": "2026-10-30T15:39:54Z",
+ "version": "2.4.3",
+ "file": "releases/CLOSR-update-2.4.3.closr",
+ "sha256": "f996d2e7bb88e4075c14ae7c3a2d27edf22f0331f47d31a282898590ce70fc71",
+ "size": 356629,
+ "notes": "Salesforce address set to fidefreight.my.salesforce.com. First update delivered through the cloud.",
+ "published": "2026-10-30T15:46:35Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
