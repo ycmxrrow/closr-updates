@@ -1,9 +1,9 @@
 {
- "version": "2.7.0",
- "file": "releases/CLOSR-update-2.7.0.closr",
- "sha256": "65006213dc2c66197a4eefdaec2cca4acf6fd40cbe6d4199c43475e26c63a924",
- "size": 385780,
- "notes": "NewBiz > Silent accounts: silent customers and prospects that went quiet, pulled live from Salesforce (read-only), scored on the Hot/Warm/Cool/Cold scale, with a win-back roadmap built from each account's real loads, notes and contacts and a closing goal of the first load back.",
- "published": "2026-10-30T18:41:26Z",
+ "version": "2.8.0",
+ "file": "releases/CLOSR-update-2.8.0.closr",
+ "sha256": "73e539d6dc80ad03691979dc102a16251c24becd425b23d145052e3f1a7c68a1",
+ "size": 390779,
+ "notes": "NewBiz > Open prospects: unowned prospects from Dead through Quoting, pulled live from Salesforce (read-only), each company once (duplicate records merged), with active customers, other reps' accounts and your pipeline removed. Silent accounts get the same cleanup. Each has a closing roadmap built from its real Salesforce history.",
+ "published": "2026-10-30T18:50:42Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
