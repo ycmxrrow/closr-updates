@@ -1,9 +1,9 @@
 {
- "version": "2.9.0",
- "file": "releases/CLOSR-update-2.9.0.closr",
- "sha256": "dc55f47cb01aadf0d3569bce91993eb6d23837713a34f434f7e6e3bc2b2ffad4",
- "size": 394204,
- "notes": "CLOSR keeps its own database: Silent accounts, Open prospects and the keep-out list are saved on this PC (compact and compressed) and refresh themselves daily when Salesforce is connected; roadmaps reopen offline. Data files are stored compressed (about 94% smaller).",
- "published": "2026-10-30T18:55:58Z",
+ "version": "2.9.1",
+ "file": "releases/CLOSR-update-2.9.1.closr",
+ "sha256": "c16d44e17690aa5d488aedb820caf41ac2c2ffde72c0d5c80fddbbbce93fb849",
+ "size": 394297,
+ "notes": "Fix: Silent accounts and Open prospects no longer freeze CLOSR while their lists are saved. Saving now happens in the background and about 80x faster.",
+ "published": "2026-10-30T19:01:32Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
