@@ -1,9 +1,9 @@
 {
- "version": "2.10.0",
- "file": "releases/CLOSR-update-2.10.0.closr",
- "sha256": "388e9bfe8fbe69a12ceffaf4424491a44fac2516c23de1e11e79f0f2ceec46d6",
- "size": 400535,
- "notes": "Speed pass: Pipeline and All tasks & notes draw about 7x faster (visible rows first, unchanged tables are not redrawn); decorative animations settle instead of running nonstop and pause when CLOSR is in the background; offscreen content is not painted; graphics drawing uses the GPU; Outlook checks are lighter (every 15 minutes, Archive every third check). Fix: closingbot My plans with win-back roadmaps.",
- "published": "2026-10-30T19:34:46Z",
+ "version": "2.11.0",
+ "file": "releases/CLOSR-update-2.11.0.closr",
+ "sha256": "90e1f952dd9046c121c2ac853509a5aedc90ff0125fe7f755dab46e45c244fd8",
+ "size": 401561,
+ "notes": "ZoomInfo buttons on every company profile and NewBiz card: one click copies the company website (or name) and opens ZoomInfo; paste into its search. Each company now appears in only one of Silent accounts or Open prospects.",
+ "published": "2026-11-02T19:34:24Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
