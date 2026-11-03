@@ -1,9 +1,9 @@
 {
- "version": "2.13.3",
- "file": "releases/CLOSR-update-2.13.3.closr",
- "sha256": "584d6ca3558312a9b1e6851da96be7d2b818e5743a96eacbc93397b2c6a94813",
- "size": 921836,
- "notes": "Salesforce sign-in: the Fide Freight SSO button now works (the SSO step continues in the same window, signed in as regular Chrome), and Salesforce shares the Microsoft sign-in with Outlook so SSO can go straight through.",
- "published": "2026-11-03T18:27:04Z",
+ "version": "2.13.4",
+ "file": "releases/CLOSR-update-2.13.4.closr",
+ "sha256": "58c4d6f770c3a0134be43f78679a41473671293c840ff83493d88c7cf08b4a2c",
+ "size": 922780,
+ "notes": "Salesforce signs itself in: CLOSR presses Log in with Fide Freight SSO for you in the background (your Microsoft sign-in is shared with Outlook), and quietly retries every 10 minutes if Salesforce drops. Fixes: the Cloud panel stays on screen with the right status, and the Restart bar no longer reshapes the top bar.",
+ "published": "2026-11-03T18:35:29Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
