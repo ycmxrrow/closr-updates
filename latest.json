@@ -1,9 +1,9 @@
 {
- "version": "2.13.4",
- "file": "releases/CLOSR-update-2.13.4.closr",
- "sha256": "58c4d6f770c3a0134be43f78679a41473671293c840ff83493d88c7cf08b4a2c",
- "size": 922780,
- "notes": "Salesforce signs itself in: CLOSR presses Log in with Fide Freight SSO for you in the background (your Microsoft sign-in is shared with Outlook), and quietly retries every 10 minutes if Salesforce drops. Fixes: the Cloud panel stays on screen with the right status, and the Restart bar no longer reshapes the top bar.",
- "published": "2026-11-03T18:35:29Z",
+ "version": "2.14.0",
+ "file": "releases/CLOSR-update-2.14.0.closr",
+ "sha256": "fdfbc840ebe7d40cf93fbdd176be892d2f2ca395145b30dd2e6752e3989f6b30",
+ "size": 940666,
+ "notes": "Live Salesforce sync every 4 hours: CLOSR pulls all accounts in your name, contacts, tasks, calls and notes (only what changed after the first run), re-scores every account, and adds new accounts automatically. Also catches calls logged against a contact. Click 'Salesforce synced' in the top bar to sync now.",
+ "published": "2026-11-03T19:12:17Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
