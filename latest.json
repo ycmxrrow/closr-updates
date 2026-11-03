@@ -1,9 +1,9 @@
 {
- "version": "2.16.1",
- "file": "releases/CLOSR-update-2.16.1.closr",
- "sha256": "294c6aedad9285c478dd1e21ddb2459fa4561ccdce9a0497897e5f4728c4e0b4",
- "size": 953812,
- "notes": "One-click AI setup: closingbot's Set up AI button installs Claude Code (Anthropic's free app, no admin rights) and opens the Claude sign-in, then runs what you asked for. No PowerShell, no API key.",
- "published": "2026-11-03T21:00:58Z",
+ "version": "2.16.2",
+ "file": "releases/CLOSR-update-2.16.2.closr",
+ "sha256": "6dede7aa95175e04a9233ad6218e03ffd3524a00dc5ea5db1c2a5f75d5945036",
+ "size": 958533,
+ "notes": "AI runs locally by default with no Claude usage: AI brief, Draft email and Prep my day are built by CLOSR on your PC from your data. Claude is optional (switch in the closingbot header) and is never installed or used unless you turn it on.",
+ "published": "2026-11-03T21:12:58Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
