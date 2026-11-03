@@ -1,9 +1,9 @@
 {
- "version": "2.17.0",
- "file": "releases/CLOSR-update-2.17.0.closr",
- "sha256": "1946febd8688857af3250cc9d8ce093490c4b9a527d741be2bfde750391b8857",
- "size": 967901,
- "notes": "Local AI agent: an open AI model runs privately on your PC (free, no Claude usage) and looks things up in your CLOSR data to answer. One-click setup installs Ollama and picks the strongest model your PC can run. Choose CLOSR rules, Local AI or Claude in the closingbot header.",
- "published": "2026-11-03T21:22:01Z",
+ "version": "2.18.0",
+ "file": "releases/CLOSR-update-2.18.0.closr",
+ "sha256": "25e8da8efc6e9f678d17a236e3dfb1d95cf74004324c67df17d9891ea6b75598",
+ "size": 970956,
+ "notes": "Cloud AI agent: a large open model (gpt-oss 120B or the best your free Ollama account offers) answers on Ollama's servers, with tools to read your CLOSR data. Nothing installed on your PC and no Claude usage. Set it up from closingbot: create a free Ollama API key and paste it in (stored encrypted).",
+ "published": "2026-11-03T21:37:36Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
