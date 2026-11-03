@@ -1,9 +1,9 @@
 {
- "version": "2.12.0",
- "file": "releases/CLOSR-update-2.12.0.closr",
- "sha256": "e4a5b71141a042c25cfb6f069795ef80174ff9b7d407569a6032502f37d0ceb1",
- "size": 407564,
- "notes": "Frontier intelligence: AI brief and Draft email on every company profile, Prep my day on Today, Sharpen with AI on NewBiz roadmaps, and closingbot open questions, all with Claude Fable 5.1 (falls back to Opus 5.5) through Claude Code, no API key. Updates now finish themselves while CLOSR is closed to the tray.",
- "published": "2026-11-03T14:17:22Z",
+ "version": "2.12.1",
+ "file": "releases/CLOSR-update-2.12.1.closr",
+ "sha256": "d4265372e6ab34b68afe1ac986386fa82ffe4c6dbca57372fb6a7330c0587ec8",
+ "size": 407953,
+ "notes": "AI answers are saved for the day: reopening the same brief, email or day plan costs no Claude usage; Refresh asks again.",
+ "published": "2026-11-03T14:22:01Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
