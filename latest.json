@@ -1,9 +1,9 @@
 {
- "version": "2.13.1",
- "file": "releases/CLOSR-update-2.13.1.closr",
- "sha256": "71913b5d28a884397746480a91e248db9af9735fc83363bc0f414c5bdf190888",
- "size": 920389,
- "notes": "NewBiz > Backhaul leads: shippers near where Fide's trucks deliver most, scored on proximity, hub volume, equipment and fit, with an opener offering capacity headed their way. Location data now travels with the update.",
- "published": "2026-11-03T14:30:03Z",
+ "version": "2.13.2",
+ "file": "releases/CLOSR-update-2.13.2.closr",
+ "sha256": "1753469bcdc41e6f133eca7d5bb6bf9ce3880043e8341ff37fbcca54b6d50bb8",
+ "size": 921307,
+ "notes": "Salesforce reconnect fix: the status now comes from a real check, so after you reconnect it shows Connected right away; an expired saved sign-in is cleared; Salesforce limits or permission errors no longer sign you out. Copy error log now includes Salesforce status.",
+ "published": "2026-11-03T18:19:44Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
