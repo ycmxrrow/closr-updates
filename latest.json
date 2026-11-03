@@ -1,9 +1,9 @@
 {
- "version": "2.18.0",
- "file": "releases/CLOSR-update-2.18.0.closr",
- "sha256": "25e8da8efc6e9f678d17a236e3dfb1d95cf74004324c67df17d9891ea6b75598",
- "size": 970956,
- "notes": "Cloud AI agent: a large open model (gpt-oss 120B or the best your free Ollama account offers) answers on Ollama's servers, with tools to read your CLOSR data. Nothing installed on your PC and no Claude usage. Set it up from closingbot: create a free Ollama API key and paste it in (stored encrypted).",
- "published": "2026-11-03T21:37:36Z",
+ "version": "2.18.1",
+ "file": "releases/CLOSR-update-2.18.1.closr",
+ "sha256": "cfbf6885dbdc62bc35bb6b90f05cc78ea5cfa322d63ec6a5236823377de89548",
+ "size": 971031,
+ "notes": "AI stays on your PC: Cloud AI is turned off (nothing is sent to Ollama's servers, any saved Ollama key is deleted), and AI defaults to On this PC.",
+ "published": "2026-11-03T21:45:57Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
