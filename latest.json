@@ -1,9 +1,9 @@
 {
- "version": "2.14.3",
- "file": "releases/CLOSR-update-2.14.3.closr",
- "sha256": "655bae48463dc8ce9dc01fa0406c05d94ebc71962da2c573ceccb681aa355894",
- "size": 941048,
- "notes": "Sync now moves to the top bar: one click pulls everything new from Salesforce, re-scores your accounts and refreshes Outlook and RingCentral; the button shows when it last synced.",
- "published": "2026-11-03T20:26:01Z",
+ "version": "2.14.4",
+ "file": "releases/CLOSR-update-2.14.4.closr",
+ "sha256": "317f482b03757b95250d9d48606427727ea16abc016870d9b5c58a7b98d3b388",
+ "size": 941184,
+ "notes": "Fix: Check now only checks for updates. A full Salesforce sync runs only from Sync now, every 4 hours, or at startup when due (the 2-minute live refresh no longer starts one).",
+ "published": "2026-11-03T20:29:28Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
