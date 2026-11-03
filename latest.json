@@ -1,9 +1,9 @@
 {
- "version": "2.14.0",
- "file": "releases/CLOSR-update-2.14.0.closr",
- "sha256": "fdfbc840ebe7d40cf93fbdd176be892d2f2ca395145b30dd2e6752e3989f6b30",
- "size": 940666,
- "notes": "Live Salesforce sync every 4 hours: CLOSR pulls all accounts in your name, contacts, tasks, calls and notes (only what changed after the first run), re-scores every account, and adds new accounts automatically. Also catches calls logged against a contact. Click 'Salesforce synced' in the top bar to sync now.",
- "published": "2026-11-03T19:12:17Z",
+ "version": "2.14.1",
+ "file": "releases/CLOSR-update-2.14.1.closr",
+ "sha256": "f05bb5efa603c193168742fb61b3539ee6431d8d307bef980fa5a59fdcb8f750",
+ "size": 940752,
+ "notes": "Fix: Salesforce sync now runs (the account list query was rejected by Salesforce). The Restart pill, sync status and version sit side by side in the top bar without overlapping; a failed sync says so and can be retried with a click.",
+ "published": "2026-11-03T19:38:59Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
