@@ -1,9 +1,9 @@
 {
- "version": "2.12.1",
- "file": "releases/CLOSR-update-2.12.1.closr",
- "sha256": "d4265372e6ab34b68afe1ac986386fa82ffe4c6dbca57372fb6a7330c0587ec8",
- "size": 407953,
- "notes": "AI answers are saved for the day: reopening the same brief, email or day plan costs no Claude usage; Refresh asks again.",
- "published": "2026-11-03T14:22:01Z",
+ "version": "2.13.0",
+ "file": "releases/CLOSR-update-2.13.0.closr",
+ "sha256": "3b817c876a6732f191ad3ee6e4a646dc9f9f3280a939f8b93595dec3193c428e",
+ "size": 416748,
+ "notes": "NewBiz > Backhaul leads: shippers within 60 miles of where Fide's trucks deliver most (last 120 days of Fide loads) and where carriers asked for freight, scored on proximity, hub volume, equipment and fit, each with an opener offering capacity already headed their way. Uses only Fide's own Salesforce data (read-only).",
+ "published": "2026-11-03T14:29:20Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
