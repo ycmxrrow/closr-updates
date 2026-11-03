@@ -1,9 +1,9 @@
 {
- "version": "2.15.0",
- "file": "releases/CLOSR-update-2.15.0.closr",
- "sha256": "6d33e560febdc41aa476a670829c5e47e4e2b8d5468125d8c8c16949cbba524b",
- "size": 944083,
- "notes": "Salesforce sync upgrade: instant re-scoring (an account you log a call, task or note on updates within a few minutes), full syncs about 3x faster (pulls run side by side), progress shown on the Sync now button, and last sync time on hover.",
- "published": "2026-11-03T20:38:57Z",
+ "version": "2.16.0",
+ "file": "releases/CLOSR-update-2.16.0.closr",
+ "sha256": "e1178f02cd48d2bb981e723d7877040e142518a30e71317c463762f1efb96aee",
+ "size": 951409,
+ "notes": "Salesforce-style logging: the company profile now has Salesforce's Activity panel on the right (Log a Call, New Task with Fide's Salesforce fields and choices). Save puts it straight into Salesforce under your name. Timeline shows Upcoming & Overdue (check to complete) and Past Activities by month, plus a Notes card with New.",
+ "published": "2026-11-03T20:51:50Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
