@@ -1,9 +1,9 @@
 {
- "version": "2.18.1",
- "file": "releases/CLOSR-update-2.18.1.closr",
- "sha256": "cfbf6885dbdc62bc35bb6b90f05cc78ea5cfa322d63ec6a5236823377de89548",
- "size": 971031,
- "notes": "AI stays on your PC: Cloud AI is turned off (nothing is sent to Ollama's servers, any saved Ollama key is deleted), and AI defaults to On this PC.",
- "published": "2026-11-03T21:45:57Z",
+ "version": "2.19.0",
+ "file": "releases/CLOSR-update-2.19.0.closr",
+ "sha256": "442942dc5bf63dcbd22b3fc655b1b973660d6b38fe82b282ccc6df662329fc46",
+ "size": 976218,
+ "notes": "Personal fit formula v2: learned from your real prospect outcomes (freight type, how you work the account, who you reach), now 79% accurate at ranking prospects that progress (was 76%). Applies at the next Salesforce sync; the AI brief shows which traits help or hurt each prospect.",
+ "published": "2026-11-04T13:44:12Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
