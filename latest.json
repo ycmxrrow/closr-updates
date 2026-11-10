@@ -1,9 +1,9 @@
 {
- "version": "2.19.0",
- "file": "releases/CLOSR-update-2.19.0.closr",
- "sha256": "442942dc5bf63dcbd22b3fc655b1b973660d6b38fe82b282ccc6df662329fc46",
- "size": 976218,
- "notes": "Personal fit formula v2: learned from your real prospect outcomes (freight type, how you work the account, who you reach), now 79% accurate at ranking prospects that progress (was 76%). Applies at the next Salesforce sync; the AI brief shows which traits help or hurt each prospect.",
- "published": "2026-11-04T13:44:12Z",
+ "version": "2.20.0",
+ "file": "releases/CLOSR-update-2.20.0.closr",
+ "sha256": "2170a84919606b7d26dd7e105b4d7316987545ba441f6bb7292f7af23c106968",
+ "size": 980670,
+ "notes": "Much lighter on your PC: Outlook no longer reloads in the background every 2 minutes (now every 20 minutes during work hours), the screen unloads after 15 minutes in the tray (frees about 200 MB), and new Salesforce entries re-score only that account. Algorithm fixes: replies waiting now follow your live Outlook mail and clear when answered, old email boosts fade over time, and the startup Salesforce check works again.",
+ "published": "2026-11-10T20:32:51Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
