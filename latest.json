@@ -1,9 +1,9 @@
 {
- "version": "2.20.1",
- "file": "releases/CLOSR-update-2.20.1.closr",
- "sha256": "b95152586cbac424ed1c072b8e931f5a7e371381fd36bc8d5b4cc2d5ea71aed8",
- "size": 982148,
- "notes": "Fixes: Salesforce sync no longer fails after the first sync (a background check was clearing its data mid-sync). Outlook and RingCentral reconnect on their own again: they retry quietly every 10 minutes when not connected, and a saved sign-in counts even if the setting was lost. Restored the private-data key in the Cloud panel. Copy error log now includes Outlook and RingCentral status.",
- "published": "2026-11-12T15:10:15Z",
+ "version": "2.21.0",
+ "file": "releases/CLOSR-update-2.21.0.closr",
+ "sha256": "97257283c8d86f397f79ebaaebed0c32d0c351e71c68fa31e08f06fff878f4e8",
+ "size": 985405,
+ "notes": "Ready for your MacBook: CLOSR now runs on Mac too. New in the Cloud panel (click the version number): Export my data and Import, to move your leads, roadmaps, progress, Ideas, learning and settings to another computer.",
+ "published": "2026-11-13T19:36:01Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
