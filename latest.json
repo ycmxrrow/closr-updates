@@ -1,9 +1,9 @@
 {
- "version": "2.26.1",
- "file": "releases/CLOSR-update-2.26.1.closr",
- "sha256": "da4bc22d52e8870664adde8aeab5f7530a383682b95ad3a4cdf452b9e6d4bda0",
- "size": 997225,
- "notes": "Log a Call now has a Date field (today by default) so you can log a call from another day. In the task menu, calls say Change Date and open tasks say Change Due Date.",
- "published": "2026-11-17T15:34:37Z",
+ "version": "2.26.2",
+ "file": "releases/CLOSR-update-2.26.2.closr",
+ "sha256": "ad0e9bf09ca464c46597629ec74d1a5c953dc02255a1c82c2a7d30be85c94a79",
+ "size": 997622,
+ "notes": "Contacts are condensed: one line each (name and title, phone, call icon, email), about half the height, with the location tags and AI buttons beside the list instead of below it.",
+ "published": "2026-11-17T15:46:31Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
