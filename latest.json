@@ -1,9 +1,9 @@
 {
- "version": "2.24.0",
- "file": "releases/CLOSR-update-2.24.0.closr",
- "sha256": "3f95f73068b1d6f3a3607b309849eb2df1980442f7d87e28b07d866233e0951f",
- "size": 992995,
- "notes": "Contacts now list under the company name (10 at a time, scroll for more) instead of a dropdown. New Call button on every contact and the main line: RingCentral rings your phone first, then connects you, and the call is saved in your RingCentral call log. Log a Call opens pre-filled. Pick which phone rings first under Ring me at.",
- "published": "2026-11-17T15:22:31Z",
+ "version": "2.25.0",
+ "file": "releases/CLOSR-update-2.25.0.closr",
+ "sha256": "abe1b6780bab5921bf87c31e8abfa1b26a14f0a3ece4e65fce01e91c227331f0",
+ "size": 994182,
+ "notes": "\"!\" tasks are now your first callbacks on Today, like your Salesforce workflow: open tasks starting with ! (due today, overdue or undated) lead the queue, more ! first, then most overdue. The homepage NEXT line starts with your ! priority callbacks.",
+ "published": "2026-11-17T15:26:17Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
