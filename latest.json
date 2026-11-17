@@ -1,9 +1,9 @@
 {
- "version": "2.27.0",
- "file": "releases/CLOSR-update-2.27.0.closr",
- "sha256": "dcf35d2dd415927533a3537df2a11a9ea866d29c6c6f4ca9842f8067d2c80bb9",
- "size": 998972,
- "notes": "Right-click menu everywhere in CLOSR: copy, cut, paste and paste as plain text, select all, spelling suggestions in text boxes, open or copy links and email addresses, Search Google, and Call with RingCentral for a selected phone number. Keyboard copy and paste work everywhere too.",
- "published": "2026-11-17T15:48:28Z",
+ "version": "2.28.0",
+ "file": "releases/CLOSR-update-2.28.0.closr",
+ "sha256": "fa73f8ee6971f6f746670ee9dcbcbf532aad871608946652db3ee3a23730ce7e",
+ "size": 999109,
+ "notes": "Won accounts stop showing up as deals to close: customers Salesforce marks as Customer or Closed (like RFP Lumber and Bridon USA) are left out of the Hot/Warm tiles, pipeline heat, the NEXT line and Today's queue. A ! task on a customer still makes it a priority callback.",
+ "published": "2026-11-17T15:51:13Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
