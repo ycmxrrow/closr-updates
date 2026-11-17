@@ -1,9 +1,9 @@
 {
- "version": "2.22.0",
- "file": "releases/CLOSR-update-2.22.0.closr",
- "sha256": "2020b747e1a4f2695f1052f4ca6c3b5d4776a3f846d51223da0a13509fc3cc9c",
- "size": 986826,
- "notes": "Log a Call now creates the follow-up task in the same Save: check Create follow-up task (on by default), pick the subject, due date (next business day by default, with Tomorrow / 2 days / Next week) and priority. Both go into Salesforce at once.",
- "published": "2026-11-17T15:08:50Z",
+ "version": "2.23.0",
+ "file": "releases/CLOSR-update-2.23.0.closr",
+ "sha256": "de45760088dec9ea1626527e1817a41869f72bedf72300b9efe986e2d2881639",
+ "size": 988279,
+ "notes": "Local AI: one-click setup on Mac too (CLOSR installs Ollama into your Applications folder, no admin password), and newer models: Gemma 4 12B for 16 GB+ computers (falls back to Qwen3.5 9B and smaller if needed). Labels say this Mac on a Mac.",
+ "published": "2026-11-17T15:17:18Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
