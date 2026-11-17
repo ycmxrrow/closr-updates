@@ -1,9 +1,9 @@
 {
- "version": "2.28.0",
- "file": "releases/CLOSR-update-2.28.0.closr",
- "sha256": "fa73f8ee6971f6f746670ee9dcbcbf532aad871608946652db3ee3a23730ce7e",
- "size": 999109,
- "notes": "Won accounts stop showing up as deals to close: customers Salesforce marks as Customer or Closed (like RFP Lumber and Bridon USA) are left out of the Hot/Warm tiles, pipeline heat, the NEXT line and Today's queue. A ! task on a customer still makes it a priority callback.",
- "published": "2026-11-17T15:51:13Z",
+ "version": "2.29.0",
+ "file": "releases/CLOSR-update-2.29.0.closr",
+ "sha256": "3fb99d0fe93353f375195598fa3df9d38e4957ee8d0f366f0fcf29509f293fac",
+ "size": 1000624,
+ "notes": "Click any phone number to dial it in the RingCentral app (replaces the Call button). No auto-filled comments after a call. AI brief, Draft email and ZoomInfo sit on one row beside the contacts. Highlighting text to copy it no longer counts as a click. Local AI setup shows a real progress bar, and switching AI modes no longer posts notes.",
+ "published": "2026-11-17T19:14:42Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
