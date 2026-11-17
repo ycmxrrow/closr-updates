@@ -1,9 +1,9 @@
 {
- "version": "2.25.0",
- "file": "releases/CLOSR-update-2.25.0.closr",
- "sha256": "abe1b6780bab5921bf87c31e8abfa1b26a14f0a3ece4e65fce01e91c227331f0",
- "size": 994182,
- "notes": "\"!\" tasks are now your first callbacks on Today, like your Salesforce workflow: open tasks starting with ! (due today, overdue or undated) lead the queue, more ! first, then most overdue. The homepage NEXT line starts with your ! priority callbacks.",
- "published": "2026-11-17T15:26:17Z",
+ "version": "2.26.0",
+ "file": "releases/CLOSR-update-2.26.0.closr",
+ "sha256": "e78fa1b7da86c0991134a83b5cd28b3dec467248e4c6abaec026a66f1f7f7e61",
+ "size": 996828,
+ "notes": "Salesforce-style task menu: every task and call in a company's Activity timeline has a dropdown on the right with Edit Comments, Change Due Date, Change Status, Change Priority, Edit, Delete and Create Follow-Up Task. Changes save straight to Salesforce.",
+ "published": "2026-11-17T15:31:03Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
