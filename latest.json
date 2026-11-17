@@ -1,9 +1,9 @@
 {
- "version": "2.21.0",
- "file": "releases/CLOSR-update-2.21.0.closr",
- "sha256": "97257283c8d86f397f79ebaaebed0c32d0c351e71c68fa31e08f06fff878f4e8",
- "size": 985405,
- "notes": "Ready for your MacBook: CLOSR now runs on Mac too. New in the Cloud panel (click the version number): Export my data and Import, to move your leads, roadmaps, progress, Ideas, learning and settings to another computer.",
- "published": "2026-11-13T19:36:01Z",
+ "version": "2.22.0",
+ "file": "releases/CLOSR-update-2.22.0.closr",
+ "sha256": "2020b747e1a4f2695f1052f4ca6c3b5d4776a3f846d51223da0a13509fc3cc9c",
+ "size": 986826,
+ "notes": "Log a Call now creates the follow-up task in the same Save: check Create follow-up task (on by default), pick the subject, due date (next business day by default, with Tomorrow / 2 days / Next week) and priority. Both go into Salesforce at once.",
+ "published": "2026-11-17T15:08:50Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
