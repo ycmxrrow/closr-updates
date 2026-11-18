@@ -1,9 +1,9 @@
 {
- "version": "2.30.0",
- "file": "releases/CLOSR-update-2.30.0.closr",
- "sha256": "55b16f59304e8f6e43c799f5e0a90c0bcb65243da0d08acb8f8ab94f7f32fd7e",
- "size": 1004962,
- "notes": "NewBiz leads go into Salesforce: Add to My leads on a new company creates the account in Salesforce in your name (Prospect, Lead Status New, location, website, industry), after checking for an existing account. My leads shows Open in Salesforce, or Create in Salesforce for older leads.",
- "published": "2026-11-18T13:19:36Z",
+ "version": "2.30.1",
+ "file": "releases/CLOSR-update-2.30.1.closr",
+ "sha256": "6618b37e1ef565777446d0d0e0214bbf38bad662dcb7616648ab4d7dfa99687c",
+ "size": 1004889,
+ "notes": "Closed / won accounts (like Bridon USA and RFP Lumber) never show on Today anymore, even if they have an open ! task.",
+ "published": "2026-11-18T15:25:34Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
