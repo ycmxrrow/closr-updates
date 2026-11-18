@@ -1,9 +1,9 @@
 {
- "version": "2.30.1",
- "file": "releases/CLOSR-update-2.30.1.closr",
- "sha256": "6618b37e1ef565777446d0d0e0214bbf38bad662dcb7616648ab4d7dfa99687c",
- "size": 1004889,
- "notes": "Closed / won accounts (like Bridon USA and RFP Lumber) never show on Today anymore, even if they have an open ! task.",
- "published": "2026-11-18T15:25:34Z",
+ "version": "2.31.0",
+ "file": "releases/CLOSR-update-2.31.0.closr",
+ "sha256": "b4cd439c460091d419c1afcd9c74a2b0db2916af1923624d1e4595923324279d",
+ "size": 1006309,
+ "notes": "Companies you have shipped with are never suggested as prospects: NewBiz lists (Fresh leads, Lead generator, Specialized freight, Backhaul, Open prospects, Silent accounts) now skip any company or location matching your customers by website, email domain or company name (e.g. Modine, United Rentals).",
+ "published": "2026-11-18T15:29:10Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
