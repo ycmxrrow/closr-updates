@@ -1,9 +1,9 @@
 {
- "version": "2.32.2",
- "file": "releases/CLOSR-update-2.32.2.closr",
- "sha256": "a8e276e2db254379f5745b77461739010fa7048a68da05c086b458d651e3764d",
- "size": 1009971,
- "notes": "Logging a call keeps the account open (it still counts as worked in Today), so you can add a task right after. New Task has Tomorrow / 2 days / Next week due-date shortcuts.",
- "published": "2026-11-18T15:35:58Z",
+ "version": "2.32.3",
+ "file": "releases/CLOSR-update-2.32.3.closr",
+ "sha256": "5e609507e8315dba8edc287666c05d5cbef1b6a55253cae06b43f6ecf18ae0bd",
+ "size": 1010183,
+ "notes": "Company profile header: location, revenue, size and the AI Brief / Draft Email / ZoomInfo buttons sit on one line under the name, and the contact list spans the full width below.",
+ "published": "2026-11-18T15:38:00Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
