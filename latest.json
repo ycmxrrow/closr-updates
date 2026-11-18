@@ -1,9 +1,9 @@
 {
- "version": "2.32.4",
- "file": "releases/CLOSR-update-2.32.4.closr",
- "sha256": "e68e82164772c110a923bc024ae3b9157276744e7d1276be710ffeb3c54f0bf1",
- "size": 1011684,
- "notes": "Fixes: what you type in Log a Call, New Task, notes and task edits is never wiped by background refreshes (drafts kept per form until you Save). Recent tasks show their subject and comments again (the live feed was dropping them). Contact list spacing improved; phone extensions no longer overlap emails.",
- "published": "2026-11-18T18:30:02Z",
+ "version": "2.33.0",
+ "file": "releases/CLOSR-update-2.33.0.closr",
+ "sha256": "b1e8dd3b58609b5d0c00600a28f7c1404aef25e888006c864894e7be0927d30a",
+ "size": 1012347,
+ "notes": "Next account button in the company header: jumps to the next account in Today's queue (skipping ones you have already opened or worked), so you can log a call, set a task, and move on without closing anything.",
+ "published": "2026-11-18T18:50:10Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
