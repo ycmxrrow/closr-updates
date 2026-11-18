@@ -1,9 +1,9 @@
 {
- "version": "2.31.0",
- "file": "releases/CLOSR-update-2.31.0.closr",
- "sha256": "b4cd439c460091d419c1afcd9c74a2b0db2916af1923624d1e4595923324279d",
- "size": 1006309,
- "notes": "Companies you have shipped with are never suggested as prospects: NewBiz lists (Fresh leads, Lead generator, Specialized freight, Backhaul, Open prospects, Silent accounts) now skip any company or location matching your customers by website, email domain or company name (e.g. Modine, United Rentals).",
- "published": "2026-11-18T15:29:10Z",
+ "version": "2.32.0",
+ "file": "releases/CLOSR-update-2.32.0.closr",
+ "sha256": "0ba40eb25175a03d6ab3e4447ccb9f4441390e66533554a473b8117c61f1bdfa",
+ "size": 1009624,
+ "notes": "New My Tasks tab: all your open Salesforce tasks (! first, then by due date) with Today + Overdue / Overdue / Today / Next 7 days / All open filters and search. Check a task to complete it in CLOSR and Salesforce, or use the menu to change date, status or priority. Today's focus card shows the account's open tasks with checkboxes too.",
+ "published": "2026-11-18T15:32:32Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
