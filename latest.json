@@ -1,9 +1,9 @@
 {
- "version": "2.32.3",
- "file": "releases/CLOSR-update-2.32.3.closr",
- "sha256": "5e609507e8315dba8edc287666c05d5cbef1b6a55253cae06b43f6ecf18ae0bd",
- "size": 1010183,
- "notes": "Company profile header: location, revenue, size and the AI Brief / Draft Email / ZoomInfo buttons sit on one line under the name, and the contact list spans the full width below.",
- "published": "2026-11-18T15:38:00Z",
+ "version": "2.32.4",
+ "file": "releases/CLOSR-update-2.32.4.closr",
+ "sha256": "e68e82164772c110a923bc024ae3b9157276744e7d1276be710ffeb3c54f0bf1",
+ "size": 1011684,
+ "notes": "Fixes: what you type in Log a Call, New Task, notes and task edits is never wiped by background refreshes (drafts kept per form until you Save). Recent tasks show their subject and comments again (the live feed was dropping them). Contact list spacing improved; phone extensions no longer overlap emails.",
+ "published": "2026-11-18T18:30:02Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
