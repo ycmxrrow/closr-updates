@@ -1,9 +1,9 @@
 {
- "version": "2.32.1",
- "file": "releases/CLOSR-update-2.32.1.closr",
- "sha256": "4604a0590fddab1154ef194459ed2184e2214801127a23c1207d2d0edcd43e56",
- "size": 1009579,
- "notes": "Log a Call no longer includes the Create follow-up task section; it just logs the call. Make follow-ups with New Task or the task menu.",
- "published": "2026-11-18T15:34:08Z",
+ "version": "2.32.2",
+ "file": "releases/CLOSR-update-2.32.2.closr",
+ "sha256": "a8e276e2db254379f5745b77461739010fa7048a68da05c086b458d651e3764d",
+ "size": 1009971,
+ "notes": "Logging a call keeps the account open (it still counts as worked in Today), so you can add a task right after. New Task has Tomorrow / 2 days / Next week due-date shortcuts.",
+ "published": "2026-11-18T15:35:58Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
