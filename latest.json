@@ -1,9 +1,9 @@
 {
- "version": "2.32.0",
- "file": "releases/CLOSR-update-2.32.0.closr",
- "sha256": "0ba40eb25175a03d6ab3e4447ccb9f4441390e66533554a473b8117c61f1bdfa",
- "size": 1009624,
- "notes": "New My Tasks tab: all your open Salesforce tasks (! first, then by due date) with Today + Overdue / Overdue / Today / Next 7 days / All open filters and search. Check a task to complete it in CLOSR and Salesforce, or use the menu to change date, status or priority. Today's focus card shows the account's open tasks with checkboxes too.",
- "published": "2026-11-18T15:32:32Z",
+ "version": "2.32.1",
+ "file": "releases/CLOSR-update-2.32.1.closr",
+ "sha256": "4604a0590fddab1154ef194459ed2184e2214801127a23c1207d2d0edcd43e56",
+ "size": 1009579,
+ "notes": "Log a Call no longer includes the Create follow-up task section; it just logs the call. Make follow-ups with New Task or the task menu.",
+ "published": "2026-11-18T15:34:08Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
