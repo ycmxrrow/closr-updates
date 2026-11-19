@@ -1,9 +1,9 @@
 {
- "version": "2.43.5",
- "file": "releases/CLOSR-update-2.43.5.closr",
- "sha256": "2d958b97ec737494998197c261ede5e2faf5f1a5449c0f187a317f14fdc29f2b",
- "size": 1257887,
- "notes": "The Open at login option is gone. CLOSR never opens on its own when you log in, and removes itself from your login items if it was there.",
- "published": "2026-11-19T21:53:40Z",
+ "version": "2.43.6",
+ "file": "releases/CLOSR-update-2.43.6.closr",
+ "sha256": "5203ead7996640dd40245279010fb9f6354ce628052987d2d43569b01cb923d5",
+ "size": 1257834,
+ "notes": "Header: removed the red lines beside the Progress and Next panels.",
+ "published": "2026-11-19T21:55:05Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
