@@ -1,9 +1,9 @@
 {
- "version": "2.42.2",
- "file": "releases/CLOSR-update-2.42.2.closr",
- "sha256": "4aaea0cab00a46565627e9085c3de53f6ca719064ae3424313daea612b185518",
- "size": 1254611,
- "notes": "Log a Call no longer fills in a contact on its own: the Name box starts on Search Contacts and only uses a contact you pick (same as New Task).",
- "published": "2026-11-19T20:40:22Z",
+ "version": "2.42.3",
+ "file": "releases/CLOSR-update-2.42.3.closr",
+ "sha256": "c7fd9f7b6c90806dad1cd5a877f03bb00769faa548b577526cc73bdc141732f9",
+ "size": 1255757,
+ "notes": "Other contacts: a trimmed quote now says 'view full entry' and clicking it jumps to that entry in the Activity log (or Notes), opens the full text and highlights it. Notes can also be clicked to show the whole note, and 'Show all notes' lists every note in CLOSR.",
+ "published": "2026-11-19T20:46:30Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
