@@ -1,9 +1,9 @@
 {
- "version": "2.40.3",
- "file": "releases/CLOSR-update-2.40.3.closr",
- "sha256": "1d624a8b5826611d79ca2945ff56f9f795c845ae97c3b461ecf37d6a0efa45e9",
- "size": 1232562,
- "notes": "closingbot no longer shows on TRACKR; it appears on the CLOSR and NEWBIZ pages as before.",
- "published": "2026-11-19T17:05:53Z",
+ "version": "2.40.4",
+ "file": "releases/CLOSR-update-2.40.4.closr",
+ "sha256": "47aff3aff758398617cc5aeca568bfc8d21ff79209a7fd0da8217977dc093f2a",
+ "size": 1232975,
+ "notes": "Closing formula: connected RingCentral calls (a minute or more) now count as real conversations: they can be 'Left off' (with a reminder to log notes) and reset the 'no live talk' advice. Missed and unanswered calls still count as attempts.",
+ "published": "2026-11-19T17:12:27Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
