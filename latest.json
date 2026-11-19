@@ -1,9 +1,9 @@
 {
- "version": "2.42.9",
- "file": "releases/CLOSR-update-2.42.9.closr",
- "sha256": "f759eaddf897c3ca3a6aa309c5c97dde08997e8369d60cd180b75c84d1c6773c",
- "size": 1256296,
- "notes": "Open tasks no longer show the round icon; each reads checkbox, task, date in its light-green box.",
- "published": "2026-11-19T21:15:35Z",
+ "version": "2.43.0",
+ "file": "releases/CLOSR-update-2.43.0.closr",
+ "sha256": "358658246e83239e8e8827a8682ed4dc8d278753af4daf1b350c9a655d6afd48",
+ "size": 1257742,
+ "notes": "Salesforce ownership: accounts CLOSR creates from NewBiz are verified to be in your name right after creation, and put back in your name if a Salesforce automation reassigns them. Leads that already exist in Salesforce unassigned (Support - Fide Freight) get a 'Put it in my name' button; accounts owned by other reps are never taken.",
+ "published": "2026-11-19T21:26:02Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
