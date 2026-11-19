@@ -1,9 +1,9 @@
 {
- "version": "2.42.6",
- "file": "releases/CLOSR-update-2.42.6.closr",
- "sha256": "c22f3783b4d1446f581258ae626763b8cd60ff5f475c79fe05055bede84f983c",
- "size": 1256168,
- "notes": "Open tasks waiting to be completed (Upcoming & Overdue in each company, and the open tasks on Today's focus card) are now highlighted in light green so they stand out.",
- "published": "2026-11-19T20:54:27Z",
+ "version": "2.42.7",
+ "file": "releases/CLOSR-update-2.42.7.closr",
+ "sha256": "3ab24e515dc303ec4c7b8d56a89bcb5042438202bd81cb25cd7533d8ca671934",
+ "size": 1256200,
+ "notes": "Fix: the green check icon on open tasks now sits inside the light-green box instead of overlapping its edge and getting cut off.",
+ "published": "2026-11-19T21:03:20Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
