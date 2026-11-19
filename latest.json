@@ -1,9 +1,9 @@
 {
- "version": "2.42.1",
- "file": "releases/CLOSR-update-2.42.1.closr",
- "sha256": "33aeac9817a6778efcb158c6c8e19a07979cb41b33fd1d6635a7909763aff84a",
- "size": 1254648,
- "notes": "Logging a call or setting a new task now always counts the account as worked today (moves the worked-today bar), however you opened the account. New Previous button beside Next account steps back through the accounts you have opened.",
- "published": "2026-11-19T20:37:55Z",
+ "version": "2.42.2",
+ "file": "releases/CLOSR-update-2.42.2.closr",
+ "sha256": "4aaea0cab00a46565627e9085c3de53f6ca719064ae3424313daea612b185518",
+ "size": 1254611,
+ "notes": "Log a Call no longer fills in a contact on its own: the Name box starts on Search Contacts and only uses a contact you pick (same as New Task).",
+ "published": "2026-11-19T20:40:22Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
