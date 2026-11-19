@@ -1,9 +1,9 @@
 {
- "version": "2.40.4",
- "file": "releases/CLOSR-update-2.40.4.closr",
- "sha256": "47aff3aff758398617cc5aeca568bfc8d21ff79209a7fd0da8217977dc093f2a",
- "size": 1232975,
- "notes": "Closing formula: connected RingCentral calls (a minute or more) now count as real conversations: they can be 'Left off' (with a reminder to log notes) and reset the 'no live talk' advice. Missed and unanswered calls still count as attempts.",
- "published": "2026-11-19T17:12:27Z",
+ "version": "2.41.0",
+ "file": "releases/CLOSR-update-2.41.0.closr",
+ "sha256": "8104bc175809b6e4556f9aef64a043ded048438e46909180d0cfd0ac583837cd",
+ "size": 1241350,
+ "notes": "NewBiz: lead cards show exact public company details (address, phone, revenue, ticker, industry from SEC; website, employees, parent from Wikidata) and freight spend (reported from 10-K filings when disclosed, otherwise a labeled industry-benchmark estimate); company profiles show freight spend too. Lead generator region picker covers the whole USA (4 regions, 9 divisions). Every new lead is checked against all Fide Salesforce accounts by name and website.",
+ "published": "2026-11-19T17:21:57Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
