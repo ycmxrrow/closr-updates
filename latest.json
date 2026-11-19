@@ -1,9 +1,9 @@
 {
- "version": "2.40.1",
- "file": "releases/CLOSR-update-2.40.1.closr",
- "sha256": "b59d51090cf3b863068c3275416af32a0cd344bad121dbf0a660d58b959cd7aa",
- "size": 1232589,
- "notes": "Speed: TRACKR now runs smoothly (60 fps instead of about 15). The scan line and HUD ring move on the GPU without repainting the map, and truck markers use a static ring instead of a constant pulse. Background refreshes from Salesforce activity are limited to one every 20 seconds, never while you type, and only while CLOSR is on screen.",
- "published": "2026-11-19T16:50:56Z",
+ "version": "2.40.2",
+ "file": "releases/CLOSR-update-2.40.2.closr",
+ "sha256": "04f705fc8ea2dbf4c7fe31725e51f8afa42685361bcc0fb7ea46476e71daa459",
+ "size": 1232580,
+ "notes": "Company profile: the contact section (with the location, size and AI buttons above it) now spans the full width under the header, and accounts without contacts show the main line first.",
+ "published": "2026-11-19T17:04:24Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
