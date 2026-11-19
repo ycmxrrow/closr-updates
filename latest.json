@@ -1,9 +1,9 @@
 {
- "version": "2.41.3",
- "file": "releases/CLOSR-update-2.41.3.closr",
- "sha256": "ebcad162a5e1c1a85bf5e9aab67c56e95634db0ab4ac70ab07ebe489dd329efb",
- "size": 1243641,
- "notes": "Today now matches your Salesforce list 'Collins Today Tasks': your open tasks due today in Salesforce's order (Subject A-Z with ! first, then creation order), customers included. Overdue tasks follow in the same order, then everything else. The NEXT line shows tasks due today and overdue.",
- "published": "2026-11-19T17:36:11Z",
+ "version": "2.41.4",
+ "file": "releases/CLOSR-update-2.41.4.closr",
+ "sha256": "bd588ed8b978e4295acfc2c500cf10ddeacbbeac810251a48a542a395dbc1f69",
+ "size": 1244536,
+ "notes": "Closing formula understands your call codes: NADNLVM = no answer, no voicemail left; LVM = voicemail left. Left off splits attempts by type and spells the code out, and the next-touch advice adapts (leave a voicemail if you haven't; switch channels after several unanswered voicemails).",
+ "published": "2026-11-19T17:39:03Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
