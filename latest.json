@@ -1,9 +1,9 @@
 {
- "version": "2.34.0",
- "file": "releases/CLOSR-update-2.34.0.closr",
- "sha256": "a0f643f2bb27f696717e51b35fcf41c3aec2462abd6186dab184b6a0329b5f0b",
- "size": 1020443,
- "notes": "Closing formula v2: built from every entry, email, call and text on the account plus company knowledge. Shows who to reach (with a backup), where you left off, what you know (lanes, equipment, volume, current broker, pain, timing), the opener, a specific ask, proof from your similar customers, the objection they actually raised, and how to close and follow up.",
- "published": "2026-11-18T18:55:51Z",
+ "version": "2.35.0",
+ "file": "releases/CLOSR-update-2.35.0.closr",
+ "sha256": "9b3f9e070cef1ba8c674efe7ccdde167b1bc3c4cc518b7b876cf932593ae9cbc",
+ "size": 1023689,
+ "notes": "Contacts: Phone and Mobile columns, edit any contact (pencil) and + Add contact, saved straight to Salesforce. The task checkbox in a company's timeline completes the task and clears it right away. Clicking a date box opens the calendar. Today now lists every account with a task due (today or overdue) right after the ! callbacks, oldest due first.",
+ "published": "2026-11-19T01:53:06Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
