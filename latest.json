@@ -1,9 +1,9 @@
 {
- "version": "2.42.8",
- "file": "releases/CLOSR-update-2.42.8.closr",
- "sha256": "d28c98325acd848f9941856d5be85cd312f5297c2698940802345d3e8f59501e",
- "size": 1256333,
- "notes": "CLOSR no longer opens automatically when you log in to your computer. To turn it back on, tick Open at login in CLOSR's top bar (renamed from Start with Windows).",
- "published": "2026-11-19T21:13:55Z",
+ "version": "2.42.9",
+ "file": "releases/CLOSR-update-2.42.9.closr",
+ "sha256": "f759eaddf897c3ca3a6aa309c5c97dde08997e8369d60cd180b75c84d1c6773c",
+ "size": 1256296,
+ "notes": "Open tasks no longer show the round icon; each reads checkbox, task, date in its light-green box.",
+ "published": "2026-11-19T21:15:35Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
