@@ -1,9 +1,9 @@
 {
- "version": "2.43.6",
- "file": "releases/CLOSR-update-2.43.6.closr",
- "sha256": "5203ead7996640dd40245279010fb9f6354ce628052987d2d43569b01cb923d5",
- "size": 1257834,
- "notes": "Header: removed the red lines beside the Progress and Next panels.",
- "published": "2026-11-19T21:55:05Z",
+ "version": "2.43.7",
+ "file": "releases/CLOSR-update-2.43.7.closr",
+ "sha256": "d3482751c4ea2c79475c58809b37c4f7e2a62f9bdc3b1105057b612e93065511",
+ "size": 1258438,
+ "notes": "Fix: changing a due date in My Tasks no longer makes the screen flash when the calendar opens. Popups like the date picker no longer switch CLOSR into idle mode, and My Tasks waits to refresh until you finish editing.",
+ "published": "2026-11-19T22:04:58Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
