@@ -1,9 +1,9 @@
 {
- "version": "2.36.1",
- "file": "releases/CLOSR-update-2.36.1.closr",
- "sha256": "5977434b87f9b4f13dde789f450793dae5b2746c262d2d03aabdc8345854211e",
- "size": 1082042,
- "notes": "Tasks stay in sync with Salesforce: the 2-minute live check now covers every open task you own (any date, any account) plus anything changed in the last 3 days, so tasks completed, rescheduled or edited in Salesforce update in CLOSR within 2 minutes instead of waiting for the 4-hour sync.",
- "published": "2026-11-19T02:12:26Z",
+ "version": "2.37.0",
+ "file": "releases/CLOSR-update-2.37.0.closr",
+ "sha256": "c77d0bdb8fd075a1f2ee91803d164bbb5f123bf2a18e7f8c0a58051fc65258af",
+ "size": 1086641,
+ "notes": "TRACKR routes: each load now shows its expected road route (faded) and the exact path the truck has driven, rebuilt from every MacroPoint ping in Salesforce's history (solid, with hoverable ping dots showing time, city and highway). The load detail shows road miles, drive time and ping count.",
+ "published": "2026-11-19T02:16:36Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
