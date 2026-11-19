@@ -1,9 +1,9 @@
 {
- "version": "2.38.0",
- "file": "releases/CLOSR-update-2.38.0.closr",
- "sha256": "f9373e52ce3e00ff7a34e90f717f7cf6d809e50d118ac2ba84cc6b8c7d4d9b23",
- "size": 1088569,
- "notes": "Near-instant sync: CLOSR now checks Salesforce every 10 seconds (30 in the tray) with one tiny request for changes to your tasks, your accounts' tasks and your loads, and pulls the update the moment something changes. New activity and MacroPoint pings show in about 10 seconds instead of 1 to 2 minutes.",
- "published": "2026-11-19T02:20:27Z",
+ "version": "2.38.1",
+ "file": "releases/CLOSR-update-2.38.1.closr",
+ "sha256": "5237419ce2d7018e96dfe73705cf49168a6b872e68451eb55a0c7f98144497f5",
+ "size": 1090092,
+ "notes": "TRACKR map zoom: scroll to zoom in and out around the mouse, drag to pan, double-click to zoom in, + / - / reset buttons, and clicking a load zooms to fit its route. Lines and markers stay crisp at every zoom level.",
+ "published": "2026-11-19T02:34:56Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
