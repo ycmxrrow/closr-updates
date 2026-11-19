@@ -1,9 +1,9 @@
 {
- "version": "2.41.4",
- "file": "releases/CLOSR-update-2.41.4.closr",
- "sha256": "bd588ed8b978e4295acfc2c500cf10ddeacbbeac810251a48a542a395dbc1f69",
- "size": 1244536,
- "notes": "Closing formula understands your call codes: NADNLVM = no answer, no voicemail left; LVM = voicemail left. Left off splits attempts by type and spells the code out, and the next-touch advice adapts (leave a voicemail if you haven't; switch channels after several unanswered voicemails).",
- "published": "2026-11-19T17:39:03Z",
+ "version": "2.42.0",
+ "file": "releases/CLOSR-update-2.42.0.closr",
+ "sha256": "95865727e73fe63e583f5513cd63342f115994a9ef82ccd360054f839b587e97",
+ "size": 1254173,
+ "notes": "NewBiz revamp: My leads is now the first tab, with an x to remove leads for good. New win formula scores leads against your real customers (equipment, commodities, states and volume from your last 12 months of loads): Lookalike 35, Equipment 20, Location 15, Opportunity 15, Access 10, Curated 5. Each card names the customer it most resembles, and Fresh leads picks six varied companies instead of repeats.",
+ "published": "2026-11-19T20:32:57Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
