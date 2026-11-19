@@ -1,9 +1,9 @@
 {
- "version": "2.40.2",
- "file": "releases/CLOSR-update-2.40.2.closr",
- "sha256": "04f705fc8ea2dbf4c7fe31725e51f8afa42685361bcc0fb7ea46476e71daa459",
- "size": 1232580,
- "notes": "Company profile: the contact section (with the location, size and AI buttons above it) now spans the full width under the header, and accounts without contacts show the main line first.",
- "published": "2026-11-19T17:04:24Z",
+ "version": "2.40.3",
+ "file": "releases/CLOSR-update-2.40.3.closr",
+ "sha256": "1d624a8b5826611d79ca2945ff56f9f795c845ae97c3b461ecf37d6a0efa45e9",
+ "size": 1232562,
+ "notes": "closingbot no longer shows on TRACKR; it appears on the CLOSR and NEWBIZ pages as before.",
+ "published": "2026-11-19T17:05:53Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
