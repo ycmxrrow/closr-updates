@@ -1,9 +1,9 @@
 {
- "version": "2.38.1",
- "file": "releases/CLOSR-update-2.38.1.closr",
- "sha256": "5237419ce2d7018e96dfe73705cf49168a6b872e68451eb55a0c7f98144497f5",
- "size": 1090092,
- "notes": "TRACKR map zoom: scroll to zoom in and out around the mouse, drag to pan, double-click to zoom in, + / - / reset buttons, and clicking a load zooms to fit its route. Lines and markers stay crisp at every zoom level.",
- "published": "2026-11-19T02:34:56Z",
+ "version": "2.39.0",
+ "file": "releases/CLOSR-update-2.39.0.closr",
+ "sha256": "a4c059afff8d7033b07d7c12dc254b1c125e94ffd3cae7993f88675c4c917600",
+ "size": 1226797,
+ "notes": "TRACKR map now covers North America (US, Canada, Mexico) with a futuristic look in CLOSR colors: grid, glowing borders, HUD rings and scan line, light pillars on moving trucks and deliveries, and a 3D tilt button. Back/forward navigation across CLOSR: trackpad swipe (left = back), mouse side buttons, Alt+arrows / Cmd+[ ]. My Tasks lists your To Do list oldest due first, then A-Z.",
+ "published": "2026-11-19T13:16:49Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
