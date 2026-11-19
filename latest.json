@@ -1,9 +1,9 @@
 {
- "version": "2.43.2",
- "file": "releases/CLOSR-update-2.43.2.closr",
- "sha256": "064922642be86305a1a4888418b106594703b0b857203535235c31dff6f1d91f",
- "size": 1257540,
- "notes": "NewBiz leads created in Salesforce now set both Owner and Customer Sales Rep to you (how Fide credits the rep), and CLOSR restores both right away if anything in Salesforce changes them. Put it in my name sets both as well.",
- "published": "2026-11-19T21:31:03Z",
+ "version": "2.43.3",
+ "file": "releases/CLOSR-update-2.43.3.closr",
+ "sha256": "559c0d2dd02a719332148758268ce95c3ae74dd3163dc3386104b9f40b671dcc",
+ "size": 1257863,
+ "notes": "Streamlined CLOSR header: Progress now sits to the left of the logo and Next (with Start) to the right, so the page starts higher; narrow windows keep the stacked layout.",
+ "published": "2026-11-19T21:40:01Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
