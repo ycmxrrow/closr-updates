@@ -1,9 +1,9 @@
 {
- "version": "2.43.4",
- "file": "releases/CLOSR-update-2.43.4.closr",
- "sha256": "9b19ca32d2cc572d85bf3ce7074b58694be04d9674c686d6b8105c568c325e88",
- "size": 1258139,
- "notes": "Cleaner header: Progress and Next are now tidy panels beside the logo, one stat per row with the numbers lined up; Next shows its four most urgent steps with Start beside its label.",
- "published": "2026-11-19T21:50:45Z",
+ "version": "2.43.5",
+ "file": "releases/CLOSR-update-2.43.5.closr",
+ "sha256": "2d958b97ec737494998197c261ede5e2faf5f1a5449c0f187a317f14fdc29f2b",
+ "size": 1257887,
+ "notes": "The Open at login option is gone. CLOSR never opens on its own when you log in, and removes itself from your login items if it was there.",
+ "published": "2026-11-19T21:53:40Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
