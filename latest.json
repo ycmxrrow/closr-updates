@@ -1,9 +1,9 @@
 {
- "version": "2.40.0",
- "file": "releases/CLOSR-update-2.40.0.closr",
- "sha256": "87402aaac9d0e06d48f553a319425885f51098b0260521668a4e82556430a29b",
- "size": 1232330,
- "notes": "TRACKR accuracy: expected routes use truck routing (OpenStreetMap Valhalla, truck rules; car routing as backup) at finer detail, the driven path is snapped to the actual roads between MacroPoint pings, and between pings a marked estimate shows where the truck likely is now, with remaining miles, an ETA, and an alert when the ETA lands after the delivery window.",
- "published": "2026-11-19T15:55:58Z",
+ "version": "2.40.1",
+ "file": "releases/CLOSR-update-2.40.1.closr",
+ "sha256": "b59d51090cf3b863068c3275416af32a0cd344bad121dbf0a660d58b959cd7aa",
+ "size": 1232589,
+ "notes": "Speed: TRACKR now runs smoothly (60 fps instead of about 15). The scan line and HUD ring move on the GPU without repainting the map, and truck markers use a static ring instead of a constant pulse. Background refreshes from Salesforce activity are limited to one every 20 seconds, never while you type, and only while CLOSR is on screen.",
+ "published": "2026-11-19T16:50:56Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
