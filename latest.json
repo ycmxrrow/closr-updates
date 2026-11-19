@@ -1,9 +1,9 @@
 {
- "version": "2.42.3",
- "file": "releases/CLOSR-update-2.42.3.closr",
- "sha256": "c7fd9f7b6c90806dad1cd5a877f03bb00769faa548b577526cc73bdc141732f9",
- "size": 1255757,
- "notes": "Other contacts: a trimmed quote now says 'view full entry' and clicking it jumps to that entry in the Activity log (or Notes), opens the full text and highlights it. Notes can also be clicked to show the whole note, and 'Show all notes' lists every note in CLOSR.",
- "published": "2026-11-19T20:46:30Z",
+ "version": "2.42.4",
+ "file": "releases/CLOSR-update-2.42.4.closr",
+ "sha256": "b7b39f3033057dd131ac0d246482ca5fd5851ff64fcf757b648646193c913749",
+ "size": 1255601,
+ "notes": "Company profiles no longer have a Notes section under the activity log; Salesforce notes now appear as entries in the log itself, on their dates.",
+ "published": "2026-11-19T20:49:24Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
