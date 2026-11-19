@@ -1,9 +1,9 @@
 {
- "version": "2.43.1",
- "file": "releases/CLOSR-update-2.43.1.closr",
- "sha256": "92b5c265c559476cf4d3cd47a17336e82b6bd9b84721ce31a0f5fed368e9e4f3",
- "size": 1257301,
- "notes": "Today no longer has a 30-account goal: the bar just shows how many accounts you have worked today and keeps adding up, with no Goal hit screen.",
- "published": "2026-11-19T21:28:40Z",
+ "version": "2.43.2",
+ "file": "releases/CLOSR-update-2.43.2.closr",
+ "sha256": "064922642be86305a1a4888418b106594703b0b857203535235c31dff6f1d91f",
+ "size": 1257540,
+ "notes": "NewBiz leads created in Salesforce now set both Owner and Customer Sales Rep to you (how Fide credits the rep), and CLOSR restores both right away if anything in Salesforce changes them. Put it in my name sets both as well.",
+ "published": "2026-11-19T21:31:03Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
