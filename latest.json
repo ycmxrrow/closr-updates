@@ -1,9 +1,9 @@
 {
- "version": "2.42.0",
- "file": "releases/CLOSR-update-2.42.0.closr",
- "sha256": "95865727e73fe63e583f5513cd63342f115994a9ef82ccd360054f839b587e97",
- "size": 1254173,
- "notes": "NewBiz revamp: My leads is now the first tab, with an x to remove leads for good. New win formula scores leads against your real customers (equipment, commodities, states and volume from your last 12 months of loads): Lookalike 35, Equipment 20, Location 15, Opportunity 15, Access 10, Curated 5. Each card names the customer it most resembles, and Fresh leads picks six varied companies instead of repeats.",
- "published": "2026-11-19T20:32:57Z",
+ "version": "2.42.1",
+ "file": "releases/CLOSR-update-2.42.1.closr",
+ "sha256": "33aeac9817a6778efcb158c6c8e19a07979cb41b33fd1d6635a7909763aff84a",
+ "size": 1254648,
+ "notes": "Logging a call or setting a new task now always counts the account as worked today (moves the worked-today bar), however you opened the account. New Previous button beside Next account steps back through the accounts you have opened.",
+ "published": "2026-11-19T20:37:55Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
