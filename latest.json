@@ -1,9 +1,9 @@
 {
- "version": "2.42.7",
- "file": "releases/CLOSR-update-2.42.7.closr",
- "sha256": "3ab24e515dc303ec4c7b8d56a89bcb5042438202bd81cb25cd7533d8ca671934",
- "size": 1256200,
- "notes": "Fix: the green check icon on open tasks now sits inside the light-green box instead of overlapping its edge and getting cut off.",
- "published": "2026-11-19T21:03:20Z",
+ "version": "2.42.8",
+ "file": "releases/CLOSR-update-2.42.8.closr",
+ "sha256": "d28c98325acd848f9941856d5be85cd312f5297c2698940802345d3e8f59501e",
+ "size": 1256333,
+ "notes": "CLOSR no longer opens automatically when you log in to your computer. To turn it back on, tick Open at login in CLOSR's top bar (renamed from Start with Windows).",
+ "published": "2026-11-19T21:13:55Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
