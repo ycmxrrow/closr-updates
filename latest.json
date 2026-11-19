@@ -1,9 +1,9 @@
 {
- "version": "2.39.2",
- "file": "releases/CLOSR-update-2.39.2.closr",
- "sha256": "dc5087e01c64aa86a34d79fd246b0ef6cfcf6ee474feaf54d3b9c1e74f856dbd",
- "size": 1228250,
- "notes": "Fixes glitching states on the TRACKR map: North Carolina and Washington DC were drawn inside-out (covering the whole map and flickering on hover). TRACKR now checks every state, province and neighbor outline when it loads and turns any inside-out shape the right way round.",
- "published": "2026-11-19T15:48:38Z",
+ "version": "2.40.0",
+ "file": "releases/CLOSR-update-2.40.0.closr",
+ "sha256": "87402aaac9d0e06d48f553a319425885f51098b0260521668a4e82556430a29b",
+ "size": 1232330,
+ "notes": "TRACKR accuracy: expected routes use truck routing (OpenStreetMap Valhalla, truck rules; car routing as backup) at finer detail, the driven path is snapped to the actual roads between MacroPoint pings, and between pings a marked estimate shows where the truck likely is now, with remaining miles, an ETA, and an alert when the ETA lands after the delivery window.",
+ "published": "2026-11-19T15:55:58Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
