@@ -1,9 +1,9 @@
 {
- "version": "2.35.0",
- "file": "releases/CLOSR-update-2.35.0.closr",
- "sha256": "9b3f9e070cef1ba8c674efe7ccdde167b1bc3c4cc518b7b876cf932593ae9cbc",
- "size": 1023689,
- "notes": "Contacts: Phone and Mobile columns, edit any contact (pencil) and + Add contact, saved straight to Salesforce. The task checkbox in a company's timeline completes the task and clears it right away. Clicking a date box opens the calendar. Today now lists every account with a task due (today or overdue) right after the ! callbacks, oldest due first.",
- "published": "2026-11-19T01:53:06Z",
+ "version": "2.36.0",
+ "file": "releases/CLOSR-update-2.36.0.closr",
+ "sha256": "3e88d87cc8a2739ae91a2bf9a911980a85df86af62fb6710fbaf443188183ea9",
+ "size": 1081289,
+ "notes": "New: TRACKR, the opening page. A live board of your Salesforce loads (In Transit, Dispatched, Assigned, Tendered, Unassigned; future loads show a week before pickup) with MacroPoint tracking: US map with a colored lane per load, live truck positions, hover previews, a sidebar of moving and upcoming loads, and full load details (carrier, dispatch, driver, shipper/receiver, appointments, commodity, tracking). Updates every minute.",
+ "published": "2026-11-19T02:08:20Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
