@@ -1,9 +1,9 @@
 {
- "version": "2.43.0",
- "file": "releases/CLOSR-update-2.43.0.closr",
- "sha256": "358658246e83239e8e8827a8682ed4dc8d278753af4daf1b350c9a655d6afd48",
- "size": 1257742,
- "notes": "Salesforce ownership: accounts CLOSR creates from NewBiz are verified to be in your name right after creation, and put back in your name if a Salesforce automation reassigns them. Leads that already exist in Salesforce unassigned (Support - Fide Freight) get a 'Put it in my name' button; accounts owned by other reps are never taken.",
- "published": "2026-11-19T21:26:02Z",
+ "version": "2.43.1",
+ "file": "releases/CLOSR-update-2.43.1.closr",
+ "sha256": "92b5c265c559476cf4d3cd47a17336e82b6bd9b84721ce31a0f5fed368e9e4f3",
+ "size": 1257301,
+ "notes": "Today no longer has a 30-account goal: the bar just shows how many accounts you have worked today and keeps adding up, with no Goal hit screen.",
+ "published": "2026-11-19T21:28:40Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
