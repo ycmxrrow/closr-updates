@@ -1,9 +1,9 @@
 {
- "version": "2.41.2",
- "file": "releases/CLOSR-update-2.41.2.closr",
- "sha256": "6eede472498904b4a285216f2d6f253674f91dcdbfeca331a2029b0015ee7a5e",
- "size": 1243485,
- "notes": "Fix: the Subject on Log a Call / New Task could be blanked after a background refresh (from 2.41.1), which blocked Save. Activity panel: Upcoming & Overdue now sits above Log a Call / New Task; checking off a task moves it into its month in the log, highlighted. New Task starts with no contact selected.",
- "published": "2026-11-19T17:32:45Z",
+ "version": "2.41.3",
+ "file": "releases/CLOSR-update-2.41.3.closr",
+ "sha256": "ebcad162a5e1c1a85bf5e9aab67c56e95634db0ab4ac70ab07ebe489dd329efb",
+ "size": 1243641,
+ "notes": "Today now matches your Salesforce list 'Collins Today Tasks': your open tasks due today in Salesforce's order (Subject A-Z with ! first, then creation order), customers included. Overdue tasks follow in the same order, then everything else. The NEXT line shows tasks due today and overdue.",
+ "published": "2026-11-19T17:36:11Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
