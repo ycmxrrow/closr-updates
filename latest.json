@@ -1,9 +1,9 @@
 {
- "version": "2.42.5",
- "file": "releases/CLOSR-update-2.42.5.closr",
- "sha256": "2aafe6b8e46ea3c23a07c1e194a1c6e2af74110bde0c9c895cc216beab8594af",
- "size": 1256064,
- "notes": "Company details (address, website, phone, industry, last activity) now sit in the header beside the company name, in the open space before the Previous / Next buttons; long values are cut with ... (hover to see all), and narrow windows place them under the name.",
- "published": "2026-11-19T20:52:27Z",
+ "version": "2.42.6",
+ "file": "releases/CLOSR-update-2.42.6.closr",
+ "sha256": "c22f3783b4d1446f581258ae626763b8cd60ff5f475c79fe05055bede84f983c",
+ "size": 1256168,
+ "notes": "Open tasks waiting to be completed (Upcoming & Overdue in each company, and the open tasks on Today's focus card) are now highlighted in light green so they stand out.",
+ "published": "2026-11-19T20:54:27Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
