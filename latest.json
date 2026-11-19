@@ -1,9 +1,9 @@
 {
- "version": "2.41.1",
- "file": "releases/CLOSR-update-2.41.1.closr",
- "sha256": "8839d3a04520626900e23719a57621d7987d7a0130eb1e1401e841750c88f436",
- "size": 1242799,
- "notes": "Contacts in each company profile now have search (name, title, phone, email), filters (Logistics roles, Talked to, Has mobile, Has phone, Has email) and sorting (Most talks, Most recent talk, Logistics roles first, Name A-Z, Title A-Z). Your choice is remembered.",
- "published": "2026-11-19T17:25:27Z",
+ "version": "2.41.2",
+ "file": "releases/CLOSR-update-2.41.2.closr",
+ "sha256": "6eede472498904b4a285216f2d6f253674f91dcdbfeca331a2029b0015ee7a5e",
+ "size": 1243485,
+ "notes": "Fix: the Subject on Log a Call / New Task could be blanked after a background refresh (from 2.41.1), which blocked Save. Activity panel: Upcoming & Overdue now sits above Log a Call / New Task; checking off a task moves it into its month in the log, highlighted. New Task starts with no contact selected.",
+ "published": "2026-11-19T17:32:45Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
