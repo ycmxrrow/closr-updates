@@ -1,9 +1,9 @@
 {
- "version": "2.37.0",
- "file": "releases/CLOSR-update-2.37.0.closr",
- "sha256": "c77d0bdb8fd075a1f2ee91803d164bbb5f123bf2a18e7f8c0a58051fc65258af",
- "size": 1086641,
- "notes": "TRACKR routes: each load now shows its expected road route (faded) and the exact path the truck has driven, rebuilt from every MacroPoint ping in Salesforce's history (solid, with hoverable ping dots showing time, city and highway). The load detail shows road miles, drive time and ping count.",
- "published": "2026-11-19T02:16:36Z",
+ "version": "2.38.0",
+ "file": "releases/CLOSR-update-2.38.0.closr",
+ "sha256": "f9373e52ce3e00ff7a34e90f717f7cf6d809e50d118ac2ba84cc6b8c7d4d9b23",
+ "size": 1088569,
+ "notes": "Near-instant sync: CLOSR now checks Salesforce every 10 seconds (30 in the tray) with one tiny request for changes to your tasks, your accounts' tasks and your loads, and pulls the update the moment something changes. New activity and MacroPoint pings show in about 10 seconds instead of 1 to 2 minutes.",
+ "published": "2026-11-19T02:20:27Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
