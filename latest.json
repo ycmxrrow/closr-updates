@@ -1,9 +1,9 @@
 {
- "version": "2.41.0",
- "file": "releases/CLOSR-update-2.41.0.closr",
- "sha256": "8104bc175809b6e4556f9aef64a043ded048438e46909180d0cfd0ac583837cd",
- "size": 1241350,
- "notes": "NewBiz: lead cards show exact public company details (address, phone, revenue, ticker, industry from SEC; website, employees, parent from Wikidata) and freight spend (reported from 10-K filings when disclosed, otherwise a labeled industry-benchmark estimate); company profiles show freight spend too. Lead generator region picker covers the whole USA (4 regions, 9 divisions). Every new lead is checked against all Fide Salesforce accounts by name and website.",
- "published": "2026-11-19T17:21:57Z",
+ "version": "2.41.1",
+ "file": "releases/CLOSR-update-2.41.1.closr",
+ "sha256": "8839d3a04520626900e23719a57621d7987d7a0130eb1e1401e841750c88f436",
+ "size": 1242799,
+ "notes": "Contacts in each company profile now have search (name, title, phone, email), filters (Logistics roles, Talked to, Has mobile, Has phone, Has email) and sorting (Most talks, Most recent talk, Logistics roles first, Name A-Z, Title A-Z). Your choice is remembered.",
+ "published": "2026-11-19T17:25:27Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
