@@ -1,9 +1,9 @@
 {
- "version": "2.39.1",
- "file": "releases/CLOSR-update-2.39.1.closr",
- "sha256": "21dc2912677eeedb3bd8712cd820569f3a19e0338ec96eb4dcf4319ab6a04383",
- "size": 1227919,
- "notes": "Fixes the TRACKR map staying stuck to the mouse after a drag and jumping around: dragging now always lets go when you release and follows the mouse smoothly. Root cause was CLOSR's error-catching layer, which kept old listeners from ever being removed; that is fixed for the whole app.",
- "published": "2026-11-19T13:25:06Z",
+ "version": "2.39.2",
+ "file": "releases/CLOSR-update-2.39.2.closr",
+ "sha256": "dc5087e01c64aa86a34d79fd246b0ef6cfcf6ee474feaf54d3b9c1e74f856dbd",
+ "size": 1228250,
+ "notes": "Fixes glitching states on the TRACKR map: North Carolina and Washington DC were drawn inside-out (covering the whole map and flickering on hover). TRACKR now checks every state, province and neighbor outline when it loads and turns any inside-out shape the right way round.",
+ "published": "2026-11-19T15:48:38Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
