@@ -1,9 +1,9 @@
 {
- "version": "2.36.0",
- "file": "releases/CLOSR-update-2.36.0.closr",
- "sha256": "3e88d87cc8a2739ae91a2bf9a911980a85df86af62fb6710fbaf443188183ea9",
- "size": 1081289,
- "notes": "New: TRACKR, the opening page. A live board of your Salesforce loads (In Transit, Dispatched, Assigned, Tendered, Unassigned; future loads show a week before pickup) with MacroPoint tracking: US map with a colored lane per load, live truck positions, hover previews, a sidebar of moving and upcoming loads, and full load details (carrier, dispatch, driver, shipper/receiver, appointments, commodity, tracking). Updates every minute.",
- "published": "2026-11-19T02:08:20Z",
+ "version": "2.36.1",
+ "file": "releases/CLOSR-update-2.36.1.closr",
+ "sha256": "5977434b87f9b4f13dde789f450793dae5b2746c262d2d03aabdc8345854211e",
+ "size": 1082042,
+ "notes": "Tasks stay in sync with Salesforce: the 2-minute live check now covers every open task you own (any date, any account) plus anything changed in the last 3 days, so tasks completed, rescheduled or edited in Salesforce update in CLOSR within 2 minutes instead of waiting for the 4-hour sync.",
+ "published": "2026-11-19T02:12:26Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
