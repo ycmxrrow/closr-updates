@@ -1,9 +1,9 @@
 {
- "version": "2.48.2",
- "file": "releases/CLOSR-update-2.48.2.closr",
- "sha256": "2e1fae16dc870f3b0d14f3a5d2f02b8ef30ee38e9af995096e2e2d6d0abe4440",
- "size": 1302061,
- "notes": "Delete contact: a small button at the bottom-left of a contact's edit form. CLOSR first shows how many logged calls/tasks and meetings are attached (Salesforce deletes them with the contact), then deletes on your OK; it goes to Salesforce's Recycle Bin for 15 days.",
- "published": "2026-11-20T19:21:20Z",
+ "version": "2.48.3",
+ "file": "releases/CLOSR-update-2.48.3.closr",
+ "sha256": "2b7d8a912a273a6d8e68a934c4c227860d8f92b249ade670e48b4f88836c9a34",
+ "size": 1303548,
+ "notes": "Follow-up warning: if you log a call or send an email on an account and move on without an open follow-up task (due today or later), an amber bar at the top of CLOSR says 'No follow-up set for <account>' with Set follow-up and Dismiss. Not shown when you mark the lead Dead.",
+ "published": "2026-11-20T19:25:09Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
