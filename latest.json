@@ -1,9 +1,9 @@
 {
- "version": "2.47.1",
- "file": "releases/CLOSR-update-2.47.1.closr",
- "sha256": "cf47c9cefabaabe048f8b2c82af85ba71f54039086ec60d89275497b063d9ced",
- "size": 1280605,
- "notes": "Marking a lead Dead now releases it: Owner becomes Support - Fide Freight and your name is removed from Customer Sales Rep, in one Salesforce change that CLOSR reads back to confirm. The account leaves CLOSR right away and the profile moves to your next account. If another rep owns it, only your name is removed.",
- "published": "2026-11-20T19:00:23Z",
+ "version": "2.47.2",
+ "file": "releases/CLOSR-update-2.47.2.closr",
+ "sha256": "06dfc6c4dc6ae6a529cab0fe2d95988526c0b01ac2edce3139d302ae7a35c2dd",
+ "size": 1280336,
+ "notes": "Removed the Draft email button from company profiles (use the email composer: click any contact's email), giving the Lead Status bar more room.",
+ "published": "2026-11-20T19:01:55Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
