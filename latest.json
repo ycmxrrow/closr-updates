@@ -1,9 +1,9 @@
 {
- "version": "2.48.0",
- "file": "releases/CLOSR-update-2.48.0.closr",
- "sha256": "8d16ffc30196aa89077d4d01051017c175f96268fac76987fac46a17c23183a2",
- "size": 1300516,
- "notes": "closingbot is faster and smarter: the AI stays loaded and warms up at start, answers stream as they are written, and on Apple Silicon 'speed up' sets up Apple's MLX engine and keeps the faster one. New: Log a call from rough notes (call log, follow-up task, Lead Status, then the After a call email), instant 'prep <account>', 'keep chasing <account>?', load status, lane rates from Fide's loads, and email results. Open questions look up your data with tools first.",
- "published": "2026-11-20T19:15:43Z",
+ "version": "2.48.1",
+ "file": "releases/CLOSR-update-2.48.1.closr",
+ "sha256": "a5a99d3983491da5846e8840d28a40cc67b97460a995be3aa90cd2ba6f766a36",
+ "size": 1300262,
+ "notes": "closingbot lane rates work right away: older saved load data is refreshed once to add the lane list.",
+ "published": "2026-11-20T19:16:49Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
