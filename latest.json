@@ -1,9 +1,9 @@
 {
- "version": "2.51.4",
- "file": "releases/CLOSR-update-2.51.4.closr",
- "sha256": "54477e1cc589672f7a66909023f25a8b22b74c4dae76e396bc31b43d33b1e472",
- "size": 1321354,
- "notes": "Activity log: Show older activity no longer jumps the page; you stay where you are and scroll down to read the older entries.",
- "published": "2026-11-20T20:24:39Z",
+ "version": "2.51.5",
+ "file": "releases/CLOSR-update-2.51.5.closr",
+ "sha256": "84ddaf3e6a6b182fcb4550a2944df7a7d075cfea83b37b448cbc92591dbdcccb",
+ "size": 1324141,
+ "notes": "Email counts now cover your full Sent history: CLOSR looks back through Outlook Sent Items once (up to 12 months, kept privately on this computer) and keeps it current, and matches recipients by email address or full name. Example: dvandertil@digitraceltd.com now shows 3.",
+ "published": "2026-11-20T20:29:41Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
