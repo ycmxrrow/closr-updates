@@ -1,9 +1,9 @@
 {
- "version": "2.44.0",
- "file": "releases/CLOSR-update-2.44.0.closr",
- "sha256": "ea53e1eddd0cda88993ea582baf8ee929b44e17bc7d450c6146fbc0fd0371f6f",
- "size": 1268672,
- "notes": "Email from CLOSR: click any contact email to open a pre-drafted intro (your template, six close versions, name and company filled in, optional call / freight / closing-question lines), edit it, add more contacts, and Send through your Outlook. Each send is logged to Salesforce as Log a Call 'Email' (Email sent to NAME / Emails sent to A, B and C), counts as worked, and is tracked for replies so the best versions win.",
- "published": "2026-11-20T18:40:25Z",
+ "version": "2.45.0",
+ "file": "releases/CLOSR-update-2.45.0.closr",
+ "sha256": "42965545d8c86565cea28c02fc9a2b8fb689a24fe015816dcb3a673572a810ec",
+ "size": 1274781,
+ "notes": "Email templates: Intro, Specialized (own trucks), Follow-up 1-3 and After a call, each in close variations. CLOSR suggests the right one from your history (after a conversation, after unanswered emails, own-truck notes). After a call opens the Outlook draft so you can attach your company documents, then logs it. Every send is tracked by template and version for replies.",
+ "published": "2026-11-20T18:45:04Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
