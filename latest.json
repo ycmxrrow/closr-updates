@@ -1,9 +1,9 @@
 {
- "version": "2.50.4",
- "file": "releases/CLOSR-update-2.50.4.closr",
- "sha256": "fc7f7612dc42d65aab706e96122f340fbc7925005dee5d63c47170952e980e5d",
- "size": 1311236,
- "notes": "Today: Up next and Done today now sit side by side across the full width. Up next previews 15 accounts (was 7) and Done today shows up to 30. Narrow windows stack them.",
- "published": "2026-11-20T20:04:31Z",
+ "version": "2.51.0",
+ "file": "releases/CLOSR-update-2.51.0.closr",
+ "sha256": "69068346662e76a1034cbb81761d0ef3e145960e8eade22bb2d087396931ee67",
+ "size": 1320229,
+ "notes": "New SCANR tab (between TRACKR and NEWBIZ): your real SCANR from claude.ai, unchanged in how it works (same scans, AI, rules, notes, shared with SCANR CoWork), restyled to CLOSR's look. Track buttons open in Chrome so SCANR Track works as before. New upload bar: pick a load, choose BOL, Loaded cargo, Unloaded cargo or POD, drop photos or PDFs, and they post to the load's Salesforce Chatter with the files attached. Sign in to claude.ai once inside CLOSR.",
+ "published": "2026-11-20T20:12:20Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
