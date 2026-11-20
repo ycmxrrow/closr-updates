@@ -1,9 +1,9 @@
 {
- "version": "2.46.0",
- "file": "releases/CLOSR-update-2.46.0.closr",
- "sha256": "4f0fd2a2ef376a5c50104920daae14c1703ef26c32279defa6087972f83eb5bd",
- "size": 1277422,
- "notes": "Email attachments: + Add files picks your company documents once (flyer, infographic, licenses) and CLOSR remembers them. CLOSR attaches them in Outlook, waits until every file is attached, then sends. On by default for After a call, off for cold emails. If Outlook will not take the files, nothing is sent and the draft stays open for you.",
- "published": "2026-11-20T18:51:56Z",
+ "version": "2.47.0",
+ "file": "releases/CLOSR-update-2.47.0.closr",
+ "sha256": "bba3dbf9a43ba7ea3675b7f13fa2a4d40ace2f14ffe246751c7f3586ebc4c6da",
+ "size": 1279394,
+ "notes": "Lead Status bar in each company profile: Dead, New, Qualified, Engaged, Developing, Quoting, Closed (Salesforce's exact values and order). Click a stage to update Salesforce; Closed and Dead ask first; old values like Cold are shown until you pick a stage. Only valid values are ever sent, and the change is read back from Salesforce to confirm.",
+ "published": "2026-11-20T18:55:53Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
