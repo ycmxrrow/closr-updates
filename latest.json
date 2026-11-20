@@ -1,9 +1,9 @@
 {
- "version": "2.51.5",
- "file": "releases/CLOSR-update-2.51.5.closr",
- "sha256": "84ddaf3e6a6b182fcb4550a2944df7a7d075cfea83b37b448cbc92591dbdcccb",
- "size": 1324141,
- "notes": "Email counts now cover your full Sent history: CLOSR looks back through Outlook Sent Items once (up to 12 months, kept privately on this computer) and keeps it current, and matches recipients by email address or full name. Example: dvandertil@digitraceltd.com now shows 3.",
- "published": "2026-11-20T20:29:41Z",
+ "version": "2.51.6",
+ "file": "releases/CLOSR-update-2.51.6.closr",
+ "sha256": "1124a2452691a25a9e7d52367b9fea604ff9ec9c1f5b3b9a2924a01bdef44bd3",
+ "size": 1327276,
+ "notes": "Emails from CLOSR now always carry your signature: Outlook starts a normal new email with your saved signature, CLOSR places your message above it (or inserts your signature if Outlook did not), and checks your message and company details are in the email before pressing Send. If it cannot confirm your signature, nothing is sent and the draft stays open for you.",
+ "published": "2026-11-20T20:36:09Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
