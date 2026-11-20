@@ -1,9 +1,9 @@
 {
- "version": "2.47.0",
- "file": "releases/CLOSR-update-2.47.0.closr",
- "sha256": "bba3dbf9a43ba7ea3675b7f13fa2a4d40ace2f14ffe246751c7f3586ebc4c6da",
- "size": 1279394,
- "notes": "Lead Status bar in each company profile: Dead, New, Qualified, Engaged, Developing, Quoting, Closed (Salesforce's exact values and order). Click a stage to update Salesforce; Closed and Dead ask first; old values like Cold are shown until you pick a stage. Only valid values are ever sent, and the change is read back from Salesforce to confirm.",
- "published": "2026-11-20T18:55:53Z",
+ "version": "2.47.1",
+ "file": "releases/CLOSR-update-2.47.1.closr",
+ "sha256": "cf47c9cefabaabe048f8b2c82af85ba71f54039086ec60d89275497b063d9ced",
+ "size": 1280605,
+ "notes": "Marking a lead Dead now releases it: Owner becomes Support - Fide Freight and your name is removed from Customer Sales Rep, in one Salesforce change that CLOSR reads back to confirm. The account leaves CLOSR right away and the profile moves to your next account. If another rep owns it, only your name is removed.",
+ "published": "2026-11-20T19:00:23Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
