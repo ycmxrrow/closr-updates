@@ -1,9 +1,9 @@
 {
- "version": "2.50.3",
- "file": "releases/CLOSR-update-2.50.3.closr",
- "sha256": "c87f579caff1b474829b07f95e17026454035e958ae936437550fd137dc339bd",
- "size": 1311080,
- "notes": "Lead Status bar now stretches across the open space in the profile header: equal-width stages with centered labels, a little taller; on narrow windows it moves to its own full-width line.",
- "published": "2026-11-20T20:01:18Z",
+ "version": "2.50.4",
+ "file": "releases/CLOSR-update-2.50.4.closr",
+ "sha256": "fc7f7612dc42d65aab706e96122f340fbc7925005dee5d63c47170952e980e5d",
+ "size": 1311236,
+ "notes": "Today: Up next and Done today now sit side by side across the full width. Up next previews 15 accounts (was 7) and Done today shows up to 30. Narrow windows stack them.",
+ "published": "2026-11-20T20:04:31Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
