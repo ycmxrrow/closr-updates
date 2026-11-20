@@ -1,9 +1,9 @@
 {
- "version": "2.52.1",
- "file": "releases/CLOSR-update-2.52.1.closr",
- "sha256": "b9eab592805cb5a9203cb531e90ec1ff456d7c81b8109dad5fe18a3016495eba",
- "size": 1330411,
- "notes": "Emailing several contacts now sends a separate email to each person (no CC, no shared To line), each greeted by their own first name; edits to the draft go to everyone. Sends one at a time with progress, stops and tells you if one fails, and logs one 'Emails sent to A, B and C' entry for the ones that went out.",
- "published": "2026-11-20T20:43:42Z",
+ "version": "2.52.2",
+ "file": "releases/CLOSR-update-2.52.2.closr",
+ "sha256": "51d3e309c398ddbc687c8ee94edccefb532060278e7674a6c0d7addea87c2a3d",
+ "size": 1332652,
+ "notes": "Email composer: 10 easy closing questions with a picker (best-replying one chosen by default), available on every template except Follow-up 2 and After a call. 'Mention my call' now works on every template using your call notes: thanks for the conversation (with its day and topic), a teammate you spoke with, or a recent call attempt; After a call uses the real day of the call.",
+ "published": "2026-11-20T20:48:02Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
