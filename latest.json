@@ -1,9 +1,9 @@
 {
- "version": "2.52.0",
- "file": "releases/CLOSR-update-2.52.0.closr",
- "sha256": "c8818a1119ced997f98087966649e9fc01cc522ec1e0e8afce6751956ed1276c",
- "size": 1329757,
- "notes": "Email composer: new Similar companies row. Tick 'Mention companies we work with', type names or click suggested Fide customers that ship the same kind of freight (busiest first), and CLOSR adds a line like 'We currently move freight for companies like A and B in the steel and metals space.' Off by default; Specialized uses the names in its own sentence. Also hides the empty Add row on follow-up templates.",
- "published": "2026-11-20T20:40:01Z",
+ "version": "2.52.1",
+ "file": "releases/CLOSR-update-2.52.1.closr",
+ "sha256": "b9eab592805cb5a9203cb531e90ec1ff456d7c81b8109dad5fe18a3016495eba",
+ "size": 1330411,
+ "notes": "Emailing several contacts now sends a separate email to each person (no CC, no shared To line), each greeted by their own first name; edits to the draft go to everyone. Sends one at a time with progress, stops and tells you if one fails, and logs one 'Emails sent to A, B and C' entry for the ones that went out.",
+ "published": "2026-11-20T20:43:42Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
