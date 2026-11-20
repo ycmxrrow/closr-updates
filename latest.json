@@ -1,9 +1,9 @@
 {
- "version": "2.43.7",
- "file": "releases/CLOSR-update-2.43.7.closr",
- "sha256": "d3482751c4ea2c79475c58809b37c4f7e2a62f9bdc3b1105057b612e93065511",
- "size": 1258438,
- "notes": "Fix: changing a due date in My Tasks no longer makes the screen flash when the calendar opens. Popups like the date picker no longer switch CLOSR into idle mode, and My Tasks waits to refresh until you finish editing.",
- "published": "2026-11-19T22:04:58Z",
+ "version": "2.43.8",
+ "file": "releases/CLOSR-update-2.43.8.closr",
+ "sha256": "d5889c91a99951fe03a5fa5edbe6fb6aa1801633ed3852e5709dcb5d346d11e7",
+ "size": 1258791,
+ "notes": "Fix: editing a contact pre-filled Last name with the date of your last conversation (a long number), which could overwrite the real last name in Salesforce. The edit form now uses the real last name, and CLOSR refuses to save a last name that is only a number. Extensions on their own (x507, ext. 507) now save in Phone or Mobile.",
+ "published": "2026-11-20T15:44:34Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
