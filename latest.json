@@ -1,9 +1,9 @@
 {
- "version": "2.49.0",
- "file": "releases/CLOSR-update-2.49.0.closr",
- "sha256": "701566c8e52f0405aab243585c66bc0b02c1f94293e29877aed52e627a7bc959",
- "size": 1305216,
- "notes": "Account details are always shown in each company profile (left column, beside the Activity log): stats, loads and revenue, play call, company size, Salesforce insights, pattern fit, important needs, email history, roadmap, why the score, and notes worth keeping. The 'Open full account details' button was removed.",
- "published": "2026-11-20T19:33:48Z",
+ "version": "2.50.0",
+ "file": "releases/CLOSR-update-2.50.0.closr",
+ "sha256": "23e46fcd84eb7953b1627145de313c32b1d40fc311579a543c335895dc5c467f",
+ "size": 1309250,
+ "notes": "New All accounts tab (next to Pipeline): every account with search, Prospects/Customers, Lead Status filter, sort, next task and last conversation; click a row to open it. Email history, All tasks & notes, Live Outlook and Calls & texts moved into a Records menu on the tab row (their counts show on Records).",
+ "published": "2026-11-20T19:37:59Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
