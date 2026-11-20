@@ -1,9 +1,9 @@
 {
- "version": "2.48.5",
- "file": "releases/CLOSR-update-2.48.5.closr",
- "sha256": "bd1a816cbcbdcd28d53af4758eeb8ae1b2d7ef82f3eac5cce94979ed7b369f73",
- "size": 1304773,
- "notes": "Delete contact now keeps the contact's past activity: logged calls, tasks and meetings (including archived ones) are moved onto the account first, then only the contact is deleted. If any activity cannot be moved, nothing is deleted.",
- "published": "2026-11-20T19:30:25Z",
+ "version": "2.49.0",
+ "file": "releases/CLOSR-update-2.49.0.closr",
+ "sha256": "701566c8e52f0405aab243585c66bc0b02c1f94293e29877aed52e627a7bc959",
+ "size": 1305216,
+ "notes": "Account details are always shown in each company profile (left column, beside the Activity log): stats, loads and revenue, play call, company size, Salesforce insights, pattern fit, important needs, email history, roadmap, why the score, and notes worth keeping. The 'Open full account details' button was removed.",
+ "published": "2026-11-20T19:33:48Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
