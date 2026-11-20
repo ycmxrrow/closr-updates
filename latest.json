@@ -1,9 +1,9 @@
 {
- "version": "2.50.2",
- "file": "releases/CLOSR-update-2.50.2.closr",
- "sha256": "68f6a471ca9aaf55be2830bf9e83f995b47480fcaf18b7fa33c0cf7df133b589",
- "size": 1310912,
- "notes": "Contacts: a small envelope badge next to each email address shows how many times you have emailed that person (from your Outlook Sent mail, Salesforce email logs and CLOSR sends, with duplicates counted once). Hover for the last date. Blank if you have never emailed them.",
- "published": "2026-11-20T19:59:19Z",
+ "version": "2.50.3",
+ "file": "releases/CLOSR-update-2.50.3.closr",
+ "sha256": "c87f579caff1b474829b07f95e17026454035e958ae936437550fd137dc339bd",
+ "size": 1311080,
+ "notes": "Lead Status bar now stretches across the open space in the profile header: equal-width stages with centered labels, a little taller; on narrow windows it moves to its own full-width line.",
+ "published": "2026-11-20T20:01:18Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
