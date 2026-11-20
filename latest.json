@@ -1,9 +1,9 @@
 {
- "version": "2.51.2",
- "file": "releases/CLOSR-update-2.51.2.closr",
- "sha256": "151d64ffc3813d11a286f0a6ae9c31be151afcc850fe5bc9413e6a12e01ea05e",
- "size": 1320418,
- "notes": "START now opens your first task's account (the top of Today's queue, in your Salesforce task order) so you can start calling right away; worked accounts are skipped.",
- "published": "2026-11-20T20:17:20Z",
+ "version": "2.51.3",
+ "file": "releases/CLOSR-update-2.51.3.closr",
+ "sha256": "86042cbdc62849d407207950ca7d46da02abb629a65ac8612a3c6b3231849966",
+ "size": 1321478,
+ "notes": "Fixes: the follow-up warning now fires when the only open task is today's (a follow-up must be due after today or set during the visit). New warning: leaving a worklist account (task due today or overdue) after 10+ seconds without logging anything says 'No activity logged'. Completed tasks now show their exact completion time from Salesforce instead of 12:00 PM (date only when Salesforce has no time).",
+ "published": "2026-11-20T20:22:30Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
