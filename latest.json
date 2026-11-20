@@ -1,9 +1,9 @@
 {
- "version": "2.48.4",
- "file": "releases/CLOSR-update-2.48.4.closr",
- "sha256": "18340bc8fd7206cf4bbe975ab4cb613f4289629679b759da8849307312b21d8e",
- "size": 1303903,
- "notes": "Activity log shows the last 3 months by default; 'Show older activity (N)' reveals everything (no more 120-entry limit). Links to older entries open the full log automatically.",
- "published": "2026-11-20T19:27:56Z",
+ "version": "2.48.5",
+ "file": "releases/CLOSR-update-2.48.5.closr",
+ "sha256": "bd1a816cbcbdcd28d53af4758eeb8ae1b2d7ef82f3eac5cce94979ed7b369f73",
+ "size": 1304773,
+ "notes": "Delete contact now keeps the contact's past activity: logged calls, tasks and meetings (including archived ones) are moved onto the account first, then only the contact is deleted. If any activity cannot be moved, nothing is deleted.",
+ "published": "2026-11-20T19:30:25Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
