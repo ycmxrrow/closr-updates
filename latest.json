@@ -1,9 +1,9 @@
 {
- "version": "2.43.8",
- "file": "releases/CLOSR-update-2.43.8.closr",
- "sha256": "d5889c91a99951fe03a5fa5edbe6fb6aa1801633ed3852e5709dcb5d346d11e7",
- "size": 1258791,
- "notes": "Fix: editing a contact pre-filled Last name with the date of your last conversation (a long number), which could overwrite the real last name in Salesforce. The edit form now uses the real last name, and CLOSR refuses to save a last name that is only a number. Extensions on their own (x507, ext. 507) now save in Phone or Mobile.",
- "published": "2026-11-20T15:44:34Z",
+ "version": "2.44.0",
+ "file": "releases/CLOSR-update-2.44.0.closr",
+ "sha256": "ea53e1eddd0cda88993ea582baf8ee929b44e17bc7d450c6146fbc0fd0371f6f",
+ "size": 1268672,
+ "notes": "Email from CLOSR: click any contact email to open a pre-drafted intro (your template, six close versions, name and company filled in, optional call / freight / closing-question lines), edit it, add more contacts, and Send through your Outlook. Each send is logged to Salesforce as Log a Call 'Email' (Email sent to NAME / Emails sent to A, B and C), counts as worked, and is tracked for replies so the best versions win.",
+ "published": "2026-11-20T18:40:25Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
