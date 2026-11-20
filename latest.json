@@ -1,9 +1,9 @@
 {
- "version": "2.51.1",
- "file": "releases/CLOSR-update-2.51.1.closr",
- "sha256": "1773a09e524857631f7712ee6a0181a65d3b80d154e78e59135130cecaeede19",
- "size": 1320148,
- "notes": "Section buttons everywhere: NEWBIZ can now go to TRACKR, SCANR and CLOSR (Back to accounts is now CLOSR); TRACKR and SCANR show TRACKR, SCANR, CLOSR and NEWBIZ at the top right.",
- "published": "2026-11-20T20:15:32Z",
+ "version": "2.51.2",
+ "file": "releases/CLOSR-update-2.51.2.closr",
+ "sha256": "151d64ffc3813d11a286f0a6ae9c31be151afcc850fe5bc9413e6a12e01ea05e",
+ "size": 1320418,
+ "notes": "START now opens your first task's account (the top of Today's queue, in your Salesforce task order) so you can start calling right away; worked accounts are skipped.",
+ "published": "2026-11-20T20:17:20Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
