@@ -1,9 +1,9 @@
 {
- "version": "2.51.6",
- "file": "releases/CLOSR-update-2.51.6.closr",
- "sha256": "1124a2452691a25a9e7d52367b9fea604ff9ec9c1f5b3b9a2924a01bdef44bd3",
- "size": 1327276,
- "notes": "Emails from CLOSR now always carry your signature: Outlook starts a normal new email with your saved signature, CLOSR places your message above it (or inserts your signature if Outlook did not), and checks your message and company details are in the email before pressing Send. If it cannot confirm your signature, nothing is sent and the draft stays open for you.",
- "published": "2026-11-20T20:36:09Z",
+ "version": "2.52.0",
+ "file": "releases/CLOSR-update-2.52.0.closr",
+ "sha256": "c8818a1119ced997f98087966649e9fc01cc522ec1e0e8afce6751956ed1276c",
+ "size": 1329757,
+ "notes": "Email composer: new Similar companies row. Tick 'Mention companies we work with', type names or click suggested Fide customers that ship the same kind of freight (busiest first), and CLOSR adds a line like 'We currently move freight for companies like A and B in the steel and metals space.' Off by default; Specialized uses the names in its own sentence. Also hides the empty Add row on follow-up templates.",
+ "published": "2026-11-20T20:40:01Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
