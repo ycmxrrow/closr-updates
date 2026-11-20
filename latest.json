@@ -1,9 +1,9 @@
 {
- "version": "2.47.2",
- "file": "releases/CLOSR-update-2.47.2.closr",
- "sha256": "06dfc6c4dc6ae6a529cab0fe2d95988526c0b01ac2edce3139d302ae7a35c2dd",
- "size": 1280336,
- "notes": "Removed the Draft email button from company profiles (use the email composer: click any contact's email), giving the Lead Status bar more room.",
- "published": "2026-11-20T19:01:55Z",
+ "version": "2.48.0",
+ "file": "releases/CLOSR-update-2.48.0.closr",
+ "sha256": "8d16ffc30196aa89077d4d01051017c175f96268fac76987fac46a17c23183a2",
+ "size": 1300516,
+ "notes": "closingbot is faster and smarter: the AI stays loaded and warms up at start, answers stream as they are written, and on Apple Silicon 'speed up' sets up Apple's MLX engine and keeps the faster one. New: Log a call from rough notes (call log, follow-up task, Lead Status, then the After a call email), instant 'prep <account>', 'keep chasing <account>?', load status, lane rates from Fide's loads, and email results. Open questions look up your data with tools first.",
+ "published": "2026-11-20T19:15:43Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
