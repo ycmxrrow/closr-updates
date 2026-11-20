@@ -1,9 +1,9 @@
 {
- "version": "2.50.0",
- "file": "releases/CLOSR-update-2.50.0.closr",
- "sha256": "23e46fcd84eb7953b1627145de313c32b1d40fc311579a543c335895dc5c467f",
- "size": 1309250,
- "notes": "New All accounts tab (next to Pipeline): every account with search, Prospects/Customers, Lead Status filter, sort, next task and last conversation; click a row to open it. Email history, All tasks & notes, Live Outlook and Calls & texts moved into a Records menu on the tab row (their counts show on Records).",
- "published": "2026-11-20T19:37:59Z",
+ "version": "2.50.1",
+ "file": "releases/CLOSR-update-2.50.1.closr",
+ "sha256": "d7bf459adb6d08415f1f114d006307a00ce8051c16d7a840851291d1c646efaa",
+ "size": 1309882,
+ "notes": "Fix: changing a task's due date in a company profile could not reach later months, because a background refresh closed the calendar while you browsed. The profile now waits while an editor is in use. New quick-date buttons on due dates: Tomorrow, +1 week, +2 weeks, +1 month, +3 months (weekends move to Monday).",
+ "published": "2026-11-20T19:55:04Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
