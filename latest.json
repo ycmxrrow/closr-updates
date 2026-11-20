@@ -1,9 +1,9 @@
 {
- "version": "2.48.1",
- "file": "releases/CLOSR-update-2.48.1.closr",
- "sha256": "a5a99d3983491da5846e8840d28a40cc67b97460a995be3aa90cd2ba6f766a36",
- "size": 1300262,
- "notes": "closingbot lane rates work right away: older saved load data is refreshed once to add the lane list.",
- "published": "2026-11-20T19:16:49Z",
+ "version": "2.48.2",
+ "file": "releases/CLOSR-update-2.48.2.closr",
+ "sha256": "2e1fae16dc870f3b0d14f3a5d2f02b8ef30ee38e9af995096e2e2d6d0abe4440",
+ "size": 1302061,
+ "notes": "Delete contact: a small button at the bottom-left of a contact's edit form. CLOSR first shows how many logged calls/tasks and meetings are attached (Salesforce deletes them with the contact), then deletes on your OK; it goes to Salesforce's Recycle Bin for 15 days.",
+ "published": "2026-11-20T19:21:20Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
