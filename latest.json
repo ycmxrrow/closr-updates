@@ -1,9 +1,9 @@
 {
- "version": "2.45.0",
- "file": "releases/CLOSR-update-2.45.0.closr",
- "sha256": "42965545d8c86565cea28c02fc9a2b8fb689a24fe015816dcb3a673572a810ec",
- "size": 1274781,
- "notes": "Email templates: Intro, Specialized (own trucks), Follow-up 1-3 and After a call, each in close variations. CLOSR suggests the right one from your history (after a conversation, after unanswered emails, own-truck notes). After a call opens the Outlook draft so you can attach your company documents, then logs it. Every send is tracked by template and version for replies.",
- "published": "2026-11-20T18:45:04Z",
+ "version": "2.46.0",
+ "file": "releases/CLOSR-update-2.46.0.closr",
+ "sha256": "4f0fd2a2ef376a5c50104920daae14c1703ef26c32279defa6087972f83eb5bd",
+ "size": 1277422,
+ "notes": "Email attachments: + Add files picks your company documents once (flyer, infographic, licenses) and CLOSR remembers them. CLOSR attaches them in Outlook, waits until every file is attached, then sends. On by default for After a call, off for cold emails. If Outlook will not take the files, nothing is sent and the draft stays open for you.",
+ "published": "2026-11-20T18:51:56Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
