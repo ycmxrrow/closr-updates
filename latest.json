@@ -1,9 +1,9 @@
 {
- "version": "2.48.3",
- "file": "releases/CLOSR-update-2.48.3.closr",
- "sha256": "2b7d8a912a273a6d8e68a934c4c227860d8f92b249ade670e48b4f88836c9a34",
- "size": 1303548,
- "notes": "Follow-up warning: if you log a call or send an email on an account and move on without an open follow-up task (due today or later), an amber bar at the top of CLOSR says 'No follow-up set for <account>' with Set follow-up and Dismiss. Not shown when you mark the lead Dead.",
- "published": "2026-11-20T19:25:09Z",
+ "version": "2.48.4",
+ "file": "releases/CLOSR-update-2.48.4.closr",
+ "sha256": "18340bc8fd7206cf4bbe975ab4cb613f4289629679b759da8849307312b21d8e",
+ "size": 1303903,
+ "notes": "Activity log shows the last 3 months by default; 'Show older activity (N)' reveals everything (no more 120-entry limit). Links to older entries open the full log automatically.",
+ "published": "2026-11-20T19:27:56Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
