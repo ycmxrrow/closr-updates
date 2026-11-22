@@ -1,9 +1,9 @@
 {
- "version": "2.52.2",
- "file": "releases/CLOSR-update-2.52.2.closr",
- "sha256": "51d3e309c398ddbc687c8ee94edccefb532060278e7674a6c0d7addea87c2a3d",
- "size": 1332652,
- "notes": "Email composer: 10 easy closing questions with a picker (best-replying one chosen by default), available on every template except Follow-up 2 and After a call. 'Mention my call' now works on every template using your call notes: thanks for the conversation (with its day and topic), a teammate you spoke with, or a recent call attempt; After a call uses the real day of the call.",
- "published": "2026-11-20T20:48:02Z",
+ "version": "2.53.0",
+ "file": "releases/CLOSR-update-2.53.0.closr",
+ "sha256": "fd3a504ca3a36136c89a757c34e33635ed2af878d81e716164ac4bebfe327f40",
+ "size": 1338250,
+ "notes": "Top bar: TRACKR, SCANR, CLOSR and NEWBIZ tabs in the center on every page; the version button opens a menu with your connections (Connect/Reconnect), Sync now and Cloud (opens to the left) without resizing the bar. Today: the task card is full width with three columns (the task, who to reach, account snapshot). Copy fix: Cmd/Ctrl+C copies what you highlighted even after a screen refresh. SCANR: clear one-time claude.ai sign-in banner.",
+ "published": "2026-11-22T05:45:07Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
