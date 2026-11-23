@@ -1,9 +1,9 @@
 {
- "version": "2.55.3",
- "file": "releases/CLOSR-update-2.55.3.closr",
- "sha256": "6dac1f31966b1ad10ea74d2fc0793edeb2227cf15084cb64c4f4e530bff3de30",
- "size": 2149782,
- "notes": "TRACKR load details polished: a hero card with a pickup-to-delivery journey bar (truck marker at how far the load has gone), a headline status with a colored light, call buttons with phone icons, a carrier badge, and the current stop highlighted.",
- "published": "2026-11-23T15:01:11Z",
+ "version": "2.56.0",
+ "file": "releases/CLOSR-update-2.56.0.closr",
+ "sha256": "eebb458d7cc1310c6aa7eb49858b203bce47cdae9ec1372475e06ce72bbff1aa",
+ "size": 2328675,
+ "notes": "TRACKR map upgrade: driven paths follow the roads as one continuous trip through the MacroPoint pings (bad matches fall back safely); the road ahead is truck-routed from the driver's last ping (dashed) and the ETA uses it; a small truck icon shows the driver's location pointing the way it is heading; subtle interstates and major city labels (more appear as you zoom, no overlapping labels).",
+ "published": "2026-11-23T18:39:13Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
