@@ -1,9 +1,9 @@
 {
- "version": "2.53.0",
- "file": "releases/CLOSR-update-2.53.0.closr",
- "sha256": "fd3a504ca3a36136c89a757c34e33635ed2af878d81e716164ac4bebfe327f40",
- "size": 1338250,
- "notes": "Top bar: TRACKR, SCANR, CLOSR and NEWBIZ tabs in the center on every page; the version button opens a menu with your connections (Connect/Reconnect), Sync now and Cloud (opens to the left) without resizing the bar. Today: the task card is full width with three columns (the task, who to reach, account snapshot). Copy fix: Cmd/Ctrl+C copies what you highlighted even after a screen refresh. SCANR: clear one-time claude.ai sign-in banner.",
- "published": "2026-11-22T05:45:07Z",
+ "version": "2.54.0",
+ "file": "releases/CLOSR-update-2.54.0.closr",
+ "sha256": "9600f790d0a267c177eb917555a505a2c78692a597c1d14683fda706786922f9",
+ "size": 1343020,
+ "notes": "New leads: Create in Salesforce now looks the company up (its website, SEC, Wikidata) and fills website, phone, street address, ZIP, industry and a plain company description (no mention of CLOSR), owned by you; it also creates an EST/CST/MST/PST Call task due that day based on the company's time zone. All accounts has a Just added filter with a NEW tag.",
+ "published": "2026-11-23T13:36:10Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
