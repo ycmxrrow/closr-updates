@@ -1,9 +1,9 @@
 {
- "version": "2.55.1",
- "file": "releases/CLOSR-update-2.55.1.closr",
- "sha256": "f097172a84e6c8fc62de8a5d0f01883f79b6808c90fac7b8fcc4ae7329b2a441",
- "size": 2144879,
- "notes": "SCANR: your approvals now come across automatically. If SCANR in CLOSR has no saved data and SCANR-data.json is in your Downloads folder, CLOSR imports it on its own (scans, notes, archive, learning and the closed-out loads you approved). Until then an amber banner explains why closed-out loads appear and offers Import SCANR data.",
- "published": "2026-11-23T14:51:18Z",
+ "version": "2.55.2",
+ "file": "releases/CLOSR-update-2.55.2.closr",
+ "sha256": "fec39ee4307124a1c4cd1c850697ed40c65a38eaaf8cda4f56290df1819d37f7",
+ "size": 2147894,
+ "notes": "TRACKR load details redesigned for easy reading: a Right now summary in plain words (colored on time / needs attention / late; ETA only when tracking is fresh, delivered loads show when they delivered), stops as a timeline with plain dates, appointments, reference numbers and call buttons, a carrier card with Driver and Dispatch call buttons, freight and money tiles, labeled notes, and tracking details folded away.",
+ "published": "2026-11-23T14:55:47Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
