@@ -1,9 +1,9 @@
 {
- "version": "2.57.0",
- "file": "releases/CLOSR-update-2.57.0.closr",
- "sha256": "db61b9db770370818f51fbb0d12c303376301a1f7ff6802e5526dd88e9fd2883",
- "size": 2334114,
- "notes": "SCANR approvals: your exported approvals import even after SCANR has already scanned, and merge with any made in CLOSR. SCANR and TRACKR in sync: SCANR runs in the background and TRACKR shows its BOL/Loaded/Unloaded/POD verdicts live (with notices when paperwork lands); uploads rescan right away; recently delivered loads appear in TRACKR. TRACKR shows who in carrier sales is working a locked uncovered load, and every status has its own color. Task due dates no longer reset to today (new Today button). Emails show progress and clear errors in the composer (including Outlook not connected). Deleted contacts no longer reappear as 'saved'. Notices now float on top of everything. Search bars match CLOSR's look.",
- "published": "2026-11-23T18:57:16Z",
+ "version": "2.58.0",
+ "file": "releases/CLOSR-update-2.58.0.closr",
+ "sha256": "4c5a1ed127b85dd6b51eafc08cd2a82f04053b0200c1c5a092d1b0e50f91056d",
+ "size": 3367821,
+ "notes": "TRACKR map: borders rebuilt from high-detail Natural Earth data (about 7x the detail, Great Lakes cut out, real coastlines); clicking around no longer highlights city names; new holographic 3D mode (solid land slab with a red rim glow, routes and pins floating above the land with shadows, steeper perspective). Follow-up warnings are now small see-through pills at the top with a triangle, Go back / Set follow-up and a dismiss x.",
+ "published": "2026-11-23T19:07:00Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
