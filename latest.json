@@ -1,9 +1,9 @@
 {
- "version": "2.58.0",
- "file": "releases/CLOSR-update-2.58.0.closr",
- "sha256": "4c5a1ed127b85dd6b51eafc08cd2a82f04053b0200c1c5a092d1b0e50f91056d",
- "size": 3367821,
- "notes": "TRACKR map: borders rebuilt from high-detail Natural Earth data (about 7x the detail, Great Lakes cut out, real coastlines); clicking around no longer highlights city names; new holographic 3D mode (solid land slab with a red rim glow, routes and pins floating above the land with shadows, steeper perspective). Follow-up warnings are now small see-through pills at the top with a triangle, Go back / Set follow-up and a dismiss x.",
- "published": "2026-11-23T19:07:00Z",
+ "version": "2.58.1",
+ "file": "releases/CLOSR-update-2.58.1.closr",
+ "sha256": "46e61829ce54377d90daec29b2392d0a73a2636161cb915772d56d59b681f02f",
+ "size": 3308170,
+ "notes": "TRACKR 3D: the two stray red lines are gone (the 3D rim now follows the real coastline from the same detailed map as the states); routes float as glowing light curtains, trucks float on beams above glowing ground rings, and holographic info cards (load, status, last seen, ETA, miles left) hover above each truck, facing you (click one to open the load). Cards that would overlap stack. Also fixes a tooltip error on loads with no commodity.",
+ "published": "2026-11-23T19:20:42Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
