@@ -1,9 +1,9 @@
 {
- "version": "2.58.2",
- "file": "releases/CLOSR-update-2.58.2.closr",
- "sha256": "7dfab5eb65045a790d4125860fb46fc3813502ddd02fe6422a2cd84b21d28cfa",
- "size": 3308132,
- "notes": "TRACKR: delivered loads disappear from the list and the map as soon as they are approved in SCANR; delivered loads still waiting on paperwork stay visible until approved.",
- "published": "2026-11-23T19:23:52Z",
+ "version": "2.58.3",
+ "file": "releases/CLOSR-update-2.58.3.closr",
+ "sha256": "a0947761bfeaea815ca569c33227178918bee4e13a172f7af5b8841dcad97b04",
+ "size": 3308424,
+ "notes": "SCANR: no importing. Loads that Salesforce shows as Completed are treated as approved automatically (unless you reopened them), so closed-out loads stop reappearing; approvals made in CLOSR are saved as you click and survive restarts. The Import button and banner are removed.",
+ "published": "2026-11-23T19:30:11Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
