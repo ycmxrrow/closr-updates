@@ -1,9 +1,9 @@
 {
- "version": "2.55.2",
- "file": "releases/CLOSR-update-2.55.2.closr",
- "sha256": "fec39ee4307124a1c4cd1c850697ed40c65a38eaaf8cda4f56290df1819d37f7",
- "size": 2147894,
- "notes": "TRACKR load details redesigned for easy reading: a Right now summary in plain words (colored on time / needs attention / late; ETA only when tracking is fresh, delivered loads show when they delivered), stops as a timeline with plain dates, appointments, reference numbers and call buttons, a carrier card with Driver and Dispatch call buttons, freight and money tiles, labeled notes, and tracking details folded away.",
- "published": "2026-11-23T14:55:47Z",
+ "version": "2.55.3",
+ "file": "releases/CLOSR-update-2.55.3.closr",
+ "sha256": "6dac1f31966b1ad10ea74d2fc0793edeb2227cf15084cb64c4f4e530bff3de30",
+ "size": 2149782,
+ "notes": "TRACKR load details polished: a hero card with a pickup-to-delivery journey bar (truck marker at how far the load has gone), a headline status with a colored light, call buttons with phone icons, a carrier badge, and the current stop highlighted.",
+ "published": "2026-11-23T15:01:11Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
