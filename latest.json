@@ -1,9 +1,9 @@
 {
- "version": "2.56.0",
- "file": "releases/CLOSR-update-2.56.0.closr",
- "sha256": "eebb458d7cc1310c6aa7eb49858b203bce47cdae9ec1372475e06ce72bbff1aa",
- "size": 2328675,
- "notes": "TRACKR map upgrade: driven paths follow the roads as one continuous trip through the MacroPoint pings (bad matches fall back safely); the road ahead is truck-routed from the driver's last ping (dashed) and the ETA uses it; a small truck icon shows the driver's location pointing the way it is heading; subtle interstates and major city labels (more appear as you zoom, no overlapping labels).",
- "published": "2026-11-23T18:39:13Z",
+ "version": "2.57.0",
+ "file": "releases/CLOSR-update-2.57.0.closr",
+ "sha256": "db61b9db770370818f51fbb0d12c303376301a1f7ff6802e5526dd88e9fd2883",
+ "size": 2334114,
+ "notes": "SCANR approvals: your exported approvals import even after SCANR has already scanned, and merge with any made in CLOSR. SCANR and TRACKR in sync: SCANR runs in the background and TRACKR shows its BOL/Loaded/Unloaded/POD verdicts live (with notices when paperwork lands); uploads rescan right away; recently delivered loads appear in TRACKR. TRACKR shows who in carrier sales is working a locked uncovered load, and every status has its own color. Task due dates no longer reset to today (new Today button). Emails show progress and clear errors in the composer (including Outlook not connected). Deleted contacts no longer reappear as 'saved'. Notices now float on top of everything. Search bars match CLOSR's look.",
+ "published": "2026-11-23T18:57:16Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
