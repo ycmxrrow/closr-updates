@@ -1,9 +1,9 @@
 {
- "version": "2.58.1",
- "file": "releases/CLOSR-update-2.58.1.closr",
- "sha256": "46e61829ce54377d90daec29b2392d0a73a2636161cb915772d56d59b681f02f",
- "size": 3308170,
- "notes": "TRACKR 3D: the two stray red lines are gone (the 3D rim now follows the real coastline from the same detailed map as the states); routes float as glowing light curtains, trucks float on beams above glowing ground rings, and holographic info cards (load, status, last seen, ETA, miles left) hover above each truck, facing you (click one to open the load). Cards that would overlap stack. Also fixes a tooltip error on loads with no commodity.",
- "published": "2026-11-23T19:20:42Z",
+ "version": "2.58.2",
+ "file": "releases/CLOSR-update-2.58.2.closr",
+ "sha256": "7dfab5eb65045a790d4125860fb46fc3813502ddd02fe6422a2cd84b21d28cfa",
+ "size": 3308132,
+ "notes": "TRACKR: delivered loads disappear from the list and the map as soon as they are approved in SCANR; delivered loads still waiting on paperwork stay visible until approved.",
+ "published": "2026-11-23T19:23:52Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
