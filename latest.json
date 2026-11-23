@@ -1,9 +1,9 @@
 {
- "version": "2.54.0",
- "file": "releases/CLOSR-update-2.54.0.closr",
- "sha256": "9600f790d0a267c177eb917555a505a2c78692a597c1d14683fda706786922f9",
- "size": 1343020,
- "notes": "New leads: Create in Salesforce now looks the company up (its website, SEC, Wikidata) and fills website, phone, street address, ZIP, industry and a plain company description (no mention of CLOSR), owned by you; it also creates an EST/CST/MST/PST Call task due that day based on the company's time zone. All accounts has a Just added filter with a NEW tag.",
- "published": "2026-11-23T13:36:10Z",
+ "version": "2.55.0",
+ "file": "releases/CLOSR-update-2.55.0.closr",
+ "sha256": "407984d76b9c9ffb3091ab312fcb2907b64d53d33472dc4eca7845f6a641540a",
+ "size": 2144346,
+ "notes": "SCANR now runs inside CLOSR with no claude.ai sign-in: the same SCANR code and screens on CLOSR's Salesforce and Outlook connections, a local paperwork reader (Qwen2.5-VL, downloads once, double-checks every photo), your SCANR data on this computer (Import SCANR data brings in your export), CLOSR colors, Slack off. Track still opens in Chrome for SCANR Track.",
+ "published": "2026-11-23T14:01:31Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
