@@ -1,9 +1,9 @@
 {
- "version": "2.55.0",
- "file": "releases/CLOSR-update-2.55.0.closr",
- "sha256": "407984d76b9c9ffb3091ab312fcb2907b64d53d33472dc4eca7845f6a641540a",
- "size": 2144346,
- "notes": "SCANR now runs inside CLOSR with no claude.ai sign-in: the same SCANR code and screens on CLOSR's Salesforce and Outlook connections, a local paperwork reader (Qwen2.5-VL, downloads once, double-checks every photo), your SCANR data on this computer (Import SCANR data brings in your export), CLOSR colors, Slack off. Track still opens in Chrome for SCANR Track.",
- "published": "2026-11-23T14:01:31Z",
+ "version": "2.55.1",
+ "file": "releases/CLOSR-update-2.55.1.closr",
+ "sha256": "f097172a84e6c8fc62de8a5d0f01883f79b6808c90fac7b8fcc4ae7329b2a441",
+ "size": 2144879,
+ "notes": "SCANR: your approvals now come across automatically. If SCANR in CLOSR has no saved data and SCANR-data.json is in your Downloads folder, CLOSR imports it on its own (scans, notes, archive, learning and the closed-out loads you approved). Until then an amber banner explains why closed-out loads appear and offers Import SCANR data.",
+ "published": "2026-11-23T14:51:18Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
