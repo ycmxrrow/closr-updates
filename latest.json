@@ -1,9 +1,9 @@
 {
- "version": "2.62.3",
- "file": "releases/CLOSR-update-2.62.3.closr",
- "sha256": "6a3d08aa340671fbebc1ed9b23d8c98997ff87af1f59857b568a439305dac91f",
- "size": 3338995,
- "notes": "Automatic backups: CLOSR now saves all of its data to Google Drive (My Drive/CLOSR Backups/<computer>) every hour, right before every update, and when a new version first starts. Restore any backup with Import in the top bar, on Windows or Mac. Everything else is the same as 2.62.2.",
- "published": "2026-11-24T23:24:21Z",
+ "version": "2.62.4",
+ "file": "releases/CLOSR-update-2.62.4.closr",
+ "sha256": "511b50f94e583d9218ab004a41b7d3b5bf94ac2f3a07a9ef46d142a371da9dee",
+ "size": 3339825,
+ "notes": "GitHub key: CLOSR can now read a private closr-updates repository. Open the cloud icon in the top bar, paste your read-only GitHub key in the new box and click Save key (once per computer). Keeps the automatic Google Drive backups from 2.62.3.",
+ "published": "2026-11-24T23:58:44Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }

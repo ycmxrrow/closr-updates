@@ -1,6 +1,6 @@
-# Keep CLOSR's automatic backup in every update (added in 2.62.3)
+# Keep CLOSR's automatic backup and GitHub key in every update (added in 2.62.3 / 2.62.4)
 
-Before building the next CLOSR update, start from the code in **releases/CLOSR-update-2.62.3.closr**
+Before building the next CLOSR update, start from the code in **releases/CLOSR-update-2.62.4.closr**
 (or newer), not from an older copy, so these stay in:
 
 1. `lib/autobackup.js` (the whole file).
@@ -17,3 +17,15 @@ What it does: every hour, right before every update, and when a new version firs
 all its data to Google Drive for desktop (kissdawg account first) at
 `My Drive/CLOSR Backups/<computer name>/` (falls back to `Documents/CLOSR Backups`). The `.closrbak`
 files open with Import in the top bar. Never remove this.
+
+## GitHub key (2.62.4) - required because this repository may be private
+
+6. In `main.js`, after `const GH_RAW = ...`: the `ghKey()` and `ghFetch()` helpers. Every request to
+   raw.githubusercontent.com / api.github.com (latest.json, releases, the update download, data.json and the
+   data download) goes through `ghFetch(...)`, never plain `fetch(...)`.
+7. `cfg.ghKey` is saved in CLOSR's settings only. Never add it to `BK_CFG`, backups or exports.
+8. The `cloud-key` IPC handler in `main.js`, `cloudKey` in `preload.js`, `hasKey` in `cloud-state`/`sendCloud`,
+   the `cloud-key` / `cloud-key-save` / `cloud-key-st` elements in `ui/index.html` and their code in `ui/appbar.js`.
+
+If this repository is private and an update ships without `ghFetch`, every CLOSR that installs it can never
+update itself again.
