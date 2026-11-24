@@ -1,9 +1,9 @@
 {
- "version": "2.58.3",
- "file": "releases/CLOSR-update-2.58.3.closr",
- "sha256": "a0947761bfeaea815ca569c33227178918bee4e13a172f7af5b8841dcad97b04",
- "size": 3308424,
- "notes": "SCANR: no importing. Loads that Salesforce shows as Completed are treated as approved automatically (unless you reopened them), so closed-out loads stop reappearing; approvals made in CLOSR are saved as you click and survive restarts. The Import button and banner are removed.",
- "published": "2026-11-23T19:30:11Z",
+ "version": "2.59.0",
+ "file": "releases/CLOSR-update-2.59.0.closr",
+ "sha256": "50c4f56fc537689ed7462c10155ea659cfd0e1b6d47c818b330b2b42970dea76",
+ "size": 3318845,
+ "notes": "Tasks: Change Due Date saves and closes again. SCANR: approved loads stop reappearing (Completed, POD Received, or approved in the claude.ai SCANR all count; reopened loads stay reopened; stale unsaved backups cleaned up); tomorrow's loads appear the same as in the claude.ai SCANR (UTC date windows). Emails: every send logged as EMAIL / 'Sent intro email to <name>', one per person; more reliable automatic sending; reason shown if Outlook opens. TRACKR: status under the paperwork dots; faster map (simplified shapes when zoomed out, extras hidden while moving, lighter 3D); 3D trucks stand at each driver's location. Account details redesigned for readability.",
+ "published": "2026-11-24T01:54:19Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
