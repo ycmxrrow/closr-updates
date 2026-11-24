@@ -1,9 +1,9 @@
 {
- "version": "2.60.6",
- "file": "releases/CLOSR-update-2.60.6.closr",
- "sha256": "d37731ce0ecb5b83ae1d7393c994ab137fa9a32eccaaae466f466fe6449c65ef",
- "size": 3327466,
- "notes": "TRACKR faster and smoother: 3D zoom now slides on the graphics card like 2D (zoom stays under the cursor); zooming in no longer repaints the map mid-scroll (it sharpens the moment you stop); only on-screen city labels move each frame; unchanged routes are no longer redrawn on refresh; the work after a zoom ends is staged so it doesn't hitch; zoom-to-load is quicker.",
- "published": "2026-11-24T13:42:32Z",
+ "version": "2.60.7",
+ "file": "releases/CLOSR-update-2.60.7.closr",
+ "sha256": "a6c0ca755807a4fff9eddaa0732299089d13311b3950e5ef390c170ab2894e96",
+ "size": 3329155,
+ "notes": "TRACKR handles re-covered loads: when a load is re-covered (back to Unassigned/Tendered, location cleared or a new driver phone), the trail starts fresh; if an old MacroPoint request keeps reporting a second truck, TRACKR follows the truck that is continuous and heading to delivery, flags 'Two trucks reporting', and says where the other one is so ops can stop the old tracking.",
+ "published": "2026-11-24T13:50:52Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
