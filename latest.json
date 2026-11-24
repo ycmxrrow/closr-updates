@@ -1,9 +1,9 @@
 {
- "version": "2.60.7",
- "file": "releases/CLOSR-update-2.60.7.closr",
- "sha256": "a6c0ca755807a4fff9eddaa0732299089d13311b3950e5ef390c170ab2894e96",
- "size": 3329155,
- "notes": "TRACKR handles re-covered loads: when a load is re-covered (back to Unassigned/Tendered, location cleared or a new driver phone), the trail starts fresh; if an old MacroPoint request keeps reporting a second truck, TRACKR follows the truck that is continuous and heading to delivery, flags 'Two trucks reporting', and says where the other one is so ops can stop the old tracking.",
- "published": "2026-11-24T13:50:52Z",
+ "version": "2.60.8",
+ "file": "releases/CLOSR-update-2.60.8.closr",
+ "sha256": "7bc43b0b4d0f701e88612e3cb3e98f689c29ac85535762a70b61a35aa071532f",
+ "size": 3330767,
+ "notes": "TRACKR is extra aware of re-covered loads: it spots a re-cover from more signals (status back to Unassigned/Tendered, location cleared, driver phone, driver name or MC/DOT change, or a carrier swap it notices between refreshes) and restarts the trail; with two trucks it follows the one making progress toward delivery; it warns when pings since a re-cover still come from where the previous truck was; and the load details note the re-cover in plain words.",
+ "published": "2026-11-24T14:19:18Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
