@@ -1,9 +1,9 @@
 {
- "version": "2.60.2",
- "file": "releases/CLOSR-update-2.60.2.closr",
- "sha256": "fd5b32449635fcaa9f1e3c5524bdbb8b1fc5e19f8127acf3c97f2a8c10945da1",
- "size": 3323491,
- "notes": "TRACKR zoom flows smoothly: the map is drawn half a screen past every edge, so zooming out and dragging show map that is already drawn instead of blank chunks; during long or fast scrolls it repaints only when the drawn area is about to run out or would look soft; routes and pins just off screen slide into view instead of appearing afterwards.",
- "published": "2026-11-24T05:26:28Z",
+ "version": "2.60.3",
+ "file": "releases/CLOSR-update-2.60.3.closr",
+ "sha256": "7bbca3678cec12f7f55a8169fdda66fea73e86517ccff610cc8f5c2eba37df27",
+ "size": 3325307,
+ "notes": "Email counts next to each contact now come straight from Outlook: CLOSR asks your Sent Items how many emails went to that exact address (To, Cc or Bcc), so prospects and customers show the true number; emails sent from CLOSR since are added on top. Falls back to the previous estimate only if your mailbox can't be reached.",
+ "published": "2026-11-24T05:49:33Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
