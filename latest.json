@@ -1,9 +1,9 @@
 {
- "version": "2.60.0",
- "file": "releases/CLOSR-update-2.60.0.closr",
- "sha256": "42979b3fa6f5550e3465a00462f23639996b57f58cb83243d55e41c6a351d929",
- "size": 3321184,
- "notes": "TRACKR performance overhaul: the base map (states, borders, coastlines, highways, grid, 3D slab and rim) is now painted on one canvas instead of thousands of vector shapes, and 3D tilts that one image on the graphics card. About 6x faster per zoom/drag step in both 2D and 3D. Never-ending decorative animations removed; SCANR stops drawing while it runs in the background. 3D trucks are now small, about the size of the 2D icon.",
- "published": "2026-11-24T04:45:02Z",
+ "version": "2.60.1",
+ "file": "releases/CLOSR-update-2.60.1.closr",
+ "sha256": "9018374351be67867a2c8e168cb1013020ec6ec8fe9052bfea1e631d38f8d948",
+ "size": 3323164,
+ "notes": "TRACKR smoother: scroll-zoom now slides the map and its routes and pins on the graphics card and redraws sharp once you pause (zoom stays centred exactly under the cursor); per-scroll work limited to one update per screen refresh; blur and glow filters removed from routes, pins and cards (hover highlight is a brighter line); selecting a load is about twice as fast; SCANR updates no longer rebuild the whole map.",
+ "published": "2026-11-24T05:18:05Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
