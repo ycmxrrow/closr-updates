@@ -1,9 +1,9 @@
 {
- "version": "2.60.1",
- "file": "releases/CLOSR-update-2.60.1.closr",
- "sha256": "9018374351be67867a2c8e168cb1013020ec6ec8fe9052bfea1e631d38f8d948",
- "size": 3323164,
- "notes": "TRACKR smoother: scroll-zoom now slides the map and its routes and pins on the graphics card and redraws sharp once you pause (zoom stays centred exactly under the cursor); per-scroll work limited to one update per screen refresh; blur and glow filters removed from routes, pins and cards (hover highlight is a brighter line); selecting a load is about twice as fast; SCANR updates no longer rebuild the whole map.",
- "published": "2026-11-24T05:18:05Z",
+ "version": "2.60.2",
+ "file": "releases/CLOSR-update-2.60.2.closr",
+ "sha256": "fd5b32449635fcaa9f1e3c5524bdbb8b1fc5e19f8127acf3c97f2a8c10945da1",
+ "size": 3323491,
+ "notes": "TRACKR zoom flows smoothly: the map is drawn half a screen past every edge, so zooming out and dragging show map that is already drawn instead of blank chunks; during long or fast scrolls it repaints only when the drawn area is about to run out or would look soft; routes and pins just off screen slide into view instead of appearing afterwards.",
+ "published": "2026-11-24T05:26:28Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
