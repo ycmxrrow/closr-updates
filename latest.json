@@ -1,9 +1,9 @@
 {
- "version": "2.60.8",
- "file": "releases/CLOSR-update-2.60.8.closr",
- "sha256": "7bc43b0b4d0f701e88612e3cb3e98f689c29ac85535762a70b61a35aa071532f",
- "size": 3330767,
- "notes": "TRACKR is extra aware of re-covered loads: it spots a re-cover from more signals (status back to Unassigned/Tendered, location cleared, driver phone, driver name or MC/DOT change, or a carrier swap it notices between refreshes) and restarts the trail; with two trucks it follows the one making progress toward delivery; it warns when pings since a re-cover still come from where the previous truck was; and the load details note the re-cover in plain words.",
- "published": "2026-11-24T14:19:18Z",
+ "version": "2.61.0",
+ "file": "releases/CLOSR-update-2.61.0.closr",
+ "sha256": "bdc54a5cf9deb85c2ba11e9d103991b66e7deb12bfb721c54f249c1eeb5d2c91",
+ "size": 3342042,
+ "notes": "Lead search in the tab row (press / to jump to it). Emails now send in the background through your mailbox, with your signature, confirmed in Sent Items (no more Drafts, no Outlook window), and only confirmed sends are counted. Bounced addresses get a warning icon. New email types (Quote follow-up, Reconnect, Seasonal check-in, Referred to you, Last check-in) plus extra versions, grammar fixes, learning from your edits ('Yours' version), draggable composer, no counts beside version numbers. Contacts sort by clicking Name/Phone/Mobile/Email. Load updates appear as notifications at the top. Go back works from SCANR. Contact delete moves activities one by one and asks if some can't move.",
+ "published": "2026-11-24T18:42:51Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
