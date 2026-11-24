@@ -1,9 +1,9 @@
 {
- "version": "2.61.1",
- "file": "releases/CLOSR-update-2.61.1.closr",
- "sha256": "63142bdda07d1cbc2cd3f4102deee89462365ec0a06f7666e9f7ab893b7b3c55",
- "size": 3341857,
- "notes": "SCANR shows all of your loads: every load where you are Carrier Sales Rep, Customer Sales Rep, Client Operations Rep (or owner/sales rep), now including Unassigned and quote-stage loads and loads shipping up to 60 days ahead (for example Load-131752, dispatched for tomorrow).",
- "published": "2026-11-24T19:43:02Z",
+ "version": "2.62.0",
+ "file": "releases/CLOSR-update-2.62.0.closr",
+ "sha256": "622044092342de887a5a7497c50b3e6c8865819fd18808eedfc321d6caadba5a",
+ "size": 3346128,
+ "notes": "SCANR: drag and drop paperwork straight onto any BOL, Loaded, Unloaded or POD item (or click its small upload icon), add a comment, and Post: it goes to the load's Salesforce Chatter as a post with your comment, is confirmed there, and SCANR updates that load right away. Nothing changes size.",
+ "published": "2026-11-24T19:54:45Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
