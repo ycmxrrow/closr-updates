@@ -1,9 +1,9 @@
 {
- "version": "2.60.5",
- "file": "releases/CLOSR-update-2.60.5.closr",
- "sha256": "2276c3dea6627d8ae5990f02f15f006e1c266373a89ac5c85cd611cbde627059",
- "size": 3327004,
- "notes": "TRACKR hover and click are smoother: hovering fades the other routes in one smooth step and draws the hovered/selected route bright on a light top layer (no restyling every route); the tooltip is reused and follows the mouse on the graphics card; clicking a load lights up its list row instantly and opens the details on the next frame.",
- "published": "2026-11-24T13:34:48Z",
+ "version": "2.60.6",
+ "file": "releases/CLOSR-update-2.60.6.closr",
+ "sha256": "d37731ce0ecb5b83ae1d7393c994ab137fa9a32eccaaae466f466fe6449c65ef",
+ "size": 3327466,
+ "notes": "TRACKR faster and smoother: 3D zoom now slides on the graphics card like 2D (zoom stays under the cursor); zooming in no longer repaints the map mid-scroll (it sharpens the moment you stop); only on-screen city labels move each frame; unchanged routes are no longer redrawn on refresh; the work after a zoom ends is staged so it doesn't hitch; zoom-to-load is quicker.",
+ "published": "2026-11-24T13:42:32Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
