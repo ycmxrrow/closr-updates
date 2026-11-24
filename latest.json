@@ -1,9 +1,9 @@
 {
- "version": "2.60.4",
- "file": "releases/CLOSR-update-2.60.4.closr",
- "sha256": "8abfce025fd168e7dd3676e4c8f766fdbb6b27751dea7fa905c38132d7c09fe8",
- "size": 3325942,
- "notes": "TRACKR zoom is smoother: pins, trucks and city labels now sit on their own light layer that stays at its true size every frame, so nothing grows during a scroll and snaps back afterwards, and city labels no longer blink off while zooming. Zoom stays centred under the cursor; scroll steps are faster still.",
- "published": "2026-11-24T13:30:12Z",
+ "version": "2.60.5",
+ "file": "releases/CLOSR-update-2.60.5.closr",
+ "sha256": "2276c3dea6627d8ae5990f02f15f006e1c266373a89ac5c85cd611cbde627059",
+ "size": 3327004,
+ "notes": "TRACKR hover and click are smoother: hovering fades the other routes in one smooth step and draws the hovered/selected route bright on a light top layer (no restyling every route); the tooltip is reused and follows the mouse on the graphics card; clicking a load lights up its list row instantly and opens the details on the next frame.",
+ "published": "2026-11-24T13:34:48Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
