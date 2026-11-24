@@ -1,9 +1,9 @@
 {
- "version": "2.60.3",
- "file": "releases/CLOSR-update-2.60.3.closr",
- "sha256": "7bbca3678cec12f7f55a8169fdda66fea73e86517ccff610cc8f5c2eba37df27",
- "size": 3325307,
- "notes": "Email counts next to each contact now come straight from Outlook: CLOSR asks your Sent Items how many emails went to that exact address (To, Cc or Bcc), so prospects and customers show the true number; emails sent from CLOSR since are added on top. Falls back to the previous estimate only if your mailbox can't be reached.",
- "published": "2026-11-24T05:49:33Z",
+ "version": "2.60.4",
+ "file": "releases/CLOSR-update-2.60.4.closr",
+ "sha256": "8abfce025fd168e7dd3676e4c8f766fdbb6b27751dea7fa905c38132d7c09fe8",
+ "size": 3325942,
+ "notes": "TRACKR zoom is smoother: pins, trucks and city labels now sit on their own light layer that stays at its true size every frame, so nothing grows during a scroll and snaps back afterwards, and city labels no longer blink off while zooming. Zoom stays centred under the cursor; scroll steps are faster still.",
+ "published": "2026-11-24T13:30:12Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
