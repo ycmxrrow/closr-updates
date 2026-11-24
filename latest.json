@@ -1,9 +1,9 @@
 {
- "version": "2.62.2",
- "file": "releases/CLOSR-update-2.62.2.closr",
- "sha256": "57f98dba0f261c604abe3c826130d69ace5212e6eb52378a822026f14501f80b",
- "size": 3346922,
- "notes": "Emails send silently in the background: CLOSR now uses an Outlook sign-in token that is allowed to send (trying both Microsoft connections), so the Outlook fallback and its 'did the email go out?' question are gone; if the fallback is ever needed, CLOSR checks Sent Items itself. Progress shows on the Send button (Sending 3 of 10, Sent 3 of 10); the status bar only appears if something fails.",
- "published": "2026-11-24T20:06:30Z",
+ "version": "2.62.3",
+ "file": "releases/CLOSR-update-2.62.3.closr",
+ "sha256": "6a3d08aa340671fbebc1ed9b23d8c98997ff87af1f59857b568a439305dac91f",
+ "size": 3338995,
+ "notes": "Automatic backups: CLOSR now saves all of its data to Google Drive (My Drive/CLOSR Backups/<computer>) every hour, right before every update, and when a new version first starts. Restore any backup with Import in the top bar, on Windows or Mac. Everything else is the same as 2.62.2.",
+ "published": "2026-11-24T23:24:21Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
