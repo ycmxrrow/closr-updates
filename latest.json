@@ -1,9 +1,9 @@
 {
- "version": "2.64.2",
- "file": "releases/CLOSR-update-2.64.2.closr",
- "sha256": "496b089cd9e9325f845d983173cd18172539d2f5d6421e10fe477748650be40d",
- "size": 3375937,
- "notes": "SCANR (and TRACKR) now read Chatter corrections: a comment under a file post like 'wrong copy', 'disregard' or 'delete this' drops that file, and a comment like 'SIGNED BOL NOT POD' or 'this is the BOL' relabels it (Load-131815 now shows the BOL received and the POD still needed).",
- "published": "2026-11-25T00:56:39Z",
+ "version": "2.65.0",
+ "file": "releases/CLOSR-update-2.65.0.closr",
+ "sha256": "f7b00d9f2564a88ea4228a05df78be09ed38267ce36fae5c180137a7b59bea9a",
+ "size": 3385538,
+ "notes": "NEWBIZ: Fresh leads now holds all lead generation in one place: Discover by region (live companies by state from OpenStreetMap, SEC EDGAR and Wikidata, merged, scored for fit and filtered against your accounts and Salesforce), Best fits, Specialized freight and the full Lead generator. Leads you create in Salesforce stay in My leads (new 'Added to Salesforce' and 'Discovered' filters). New Salesforce accounts get the corporate HQ address as both Billing and Shipping, plus website, phone and description.",
+ "published": "2026-11-25T01:13:41Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
