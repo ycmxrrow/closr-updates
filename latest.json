@@ -1,9 +1,9 @@
 {
- "version": "2.68.3",
- "file": "releases/CLOSR-update-2.68.3.closr",
- "sha256": "4dd19ec64460feedcbe3fcf66db2bb8c71ddec60cd24e6d0630257f93f6db806",
- "size": 3414872,
- "notes": "Route tracker is now a thin line along the bottom of the top bar with a truck riding it, showing only the driver closest to delivery (it changes only when a different driver is closer); no background and it covers nothing. Refresh moved into SCANR next to its bell. Sign out only appears when you hover Reconnect itself.",
- "published": "2026-11-25T05:10:52Z",
+ "version": "2.69.0",
+ "file": "releases/CLOSR-update-2.69.0.closr",
+ "sha256": "0182319fcd3ef5cc5f2754e267927f1cda68250ae1eb179b92989ea1acd68ea1",
+ "size": 3418614,
+ "notes": "Hi-Scores is more accurate: billed loads use invoiced totals (quotes until a load bills), plus new stats for billed so far, average profit per load vs last month, revenue per mile, new customers this month and a most-customers-in-a-month record. Silent accounts now live inside Open prospects as a second full section, with a summary strip to jump between them. SCANR polished: five equal tiles (number over label), CLOSR-style underline tabs, one font system, even filters and legend, and matching header buttons.",
+ "published": "2026-11-25T05:19:39Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
