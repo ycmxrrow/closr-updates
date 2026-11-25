@@ -1,9 +1,9 @@
 {
- "version": "2.68.2",
- "file": "releases/CLOSR-update-2.68.2.closr",
- "sha256": "c4a22fd62edbadcda84e2115be8238f4c8a46e41e364192ead5ab487a5c00fe2",
- "size": 3414243,
- "notes": "Find leads: Hot / Warm / Cool counts you can click to filter; 'Near your customers' on each lead (same city as a customer you ship for, or how many of your customers are in that state) with a matching sort; tick several companies and add them to My leads at once; and a Playbook under each lead with a ready pitch line built from the customers it resembles and a first-touch checklist.",
- "published": "2026-11-25T05:05:43Z",
+ "version": "2.68.3",
+ "file": "releases/CLOSR-update-2.68.3.closr",
+ "sha256": "4dd19ec64460feedcbe3fcf66db2bb8c71ddec60cd24e6d0630257f93f6db806",
+ "size": 3414872,
+ "notes": "Route tracker is now a thin line along the bottom of the top bar with a truck riding it, showing only the driver closest to delivery (it changes only when a different driver is closer); no background and it covers nothing. Refresh moved into SCANR next to its bell. Sign out only appears when you hover Reconnect itself.",
+ "published": "2026-11-25T05:10:52Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
