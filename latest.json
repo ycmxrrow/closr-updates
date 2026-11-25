@@ -1,9 +1,9 @@
 {
- "version": "2.69.1",
- "file": "releases/CLOSR-update-2.69.1.closr",
- "sha256": "683c768233c43343954f9eb2dd0dcfc5f53d488eefac6eb0079ffd3e52858af5",
- "size": 3418718,
- "notes": "Route tracker caption is smaller and tidier: load number in small caps, then route and miles/ETA separated by thin dividers.",
- "published": "2026-11-25T05:25:15Z",
+ "version": "2.69.2",
+ "file": "releases/CLOSR-update-2.69.2.closr",
+ "sha256": "8bac3cc9f42fecc0d794260e8118e9d18777cdca53476b7126502b74c798466d",
+ "size": 3419281,
+ "notes": "SCANR's logo now sits in the same place as the CLOSR and NEWBIZ titles (no jump when switching), with its subtitle and a short red rule underneath like CLOSR; the page uses CLOSR's full width so tiles, tabs and rows line up with CLOSR's layout.",
+ "published": "2026-11-25T13:19:19Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
