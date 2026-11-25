@@ -1,9 +1,9 @@
 {
- "version": "2.66.1",
- "file": "releases/CLOSR-update-2.66.1.closr",
- "sha256": "cc39db8dd2b0d44caa8810054e3c46548a72b495fd8bd5c365384f2a82b41754",
- "size": 3394313,
- "notes": "Hi-Scores now scores your real loads (it was asking Salesforce for the wrong user id) and groups equipment by type (Flatbed, Hotshot, Dry Van, Step Deck...). SCANR in CLOSR: restyled to match CLOSR (Michroma labels, red-edged tiles, CLOSR tabs, buttons and panels) with the SCANR logo untouched; the load search bars are gone; the Upload button now sits with each row's own buttons instead of on top of them.",
- "published": "2026-11-25T01:25:53Z",
+ "version": "2.66.2",
+ "file": "releases/CLOSR-update-2.66.2.closr",
+ "sha256": "f3a9365ed38c0bef92925c2a0d5a01c365b0ff58f0377e57aa13b90cf39fb615",
+ "size": 3394248,
+ "notes": "TRACKR opens in 2D again. It only starts in 3D when 'Open TRACKR in 3D' is switched on in the settings gear; the 3D button still works any time.",
+ "published": "2026-11-25T01:27:59Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
