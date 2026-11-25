@@ -1,9 +1,9 @@
 {
- "version": "2.64.0",
- "file": "releases/CLOSR-update-2.64.0.closr",
- "sha256": "141787b2c7dd79c94782625d0654ab4b2f2d5603efaac73ec26f5a3f6d4bd0e2",
- "size": 3374098,
- "notes": "New settings gear next to the version (top right): load notifications on/off, compact layout, open TRACKR in 3D, default email template, Sync now and Connections. Inside it, a Hi-Scores stat sheet built live from your Salesforce loads: today/week/month/year/all-time profit and margin, personal records (best day, week, month, biggest load, highest margin, longest haul, shipping streak) with NEW HIGH SCORE badges, month-by-month bars with this month's pace, profit by equipment, top customers and lanes. Keeps automatic backups and the GitHub key.",
- "published": "2026-11-25T00:38:42Z",
+ "version": "2.64.1",
+ "file": "releases/CLOSR-update-2.64.1.closr",
+ "sha256": "f09aec984bf901fe72763c383f0aa5eca11ed8d11bd4f2adc3d0fed15e01f366",
+ "size": 3375323,
+ "notes": "Settings and Hi-Scores redesigned in CLOSR's own style: a CLOSR-red gear on the top bar (no background) opens a full-height drawer with spaced Michroma headings, red-glow switches, Hot/Warm-style score cards, a ranked personal-record leaderboard with NEW HIGH SCORE badges, glowing month bars and heat bars by equipment.",
+ "published": "2026-11-25T00:49:07Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
