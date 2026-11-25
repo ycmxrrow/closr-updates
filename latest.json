@@ -1,9 +1,9 @@
 {
- "version": "2.62.4",
- "file": "releases/CLOSR-update-2.62.4.closr",
- "sha256": "511b50f94e583d9218ab004a41b7d3b5bf94ac2f3a07a9ef46d142a371da9dee",
- "size": 3339825,
- "notes": "GitHub key: CLOSR can now read a private closr-updates repository. Open the cloud icon in the top bar, paste your read-only GitHub key in the new box and click Save key (once per computer). Keeps the automatic Google Drive backups from 2.62.3.",
- "published": "2026-11-24T23:58:44Z",
+ "version": "2.63.0",
+ "file": "releases/CLOSR-update-2.63.0.closr",
+ "sha256": "1df1d135ce7a92864e63975926646b5b651bdc1217caa430630df13383ab68fa",
+ "size": 3364632,
+ "notes": "Built on 2.62.4 (keeps automatic Google Drive backups and the GitHub key). Emails: CLOSR moves straight to the next email once Microsoft accepts one and confirms it quietly in the background; when Outlook is busy it waits and retries instead of falling back to Outlook's page, so no stray drafts. Question options: no counts; option 6 is now 'Would you be open to a quick call sometime next week to see if there's a fit?'. SCANR: bigger upload icon; Chatter posts read just 'POD' or 'POD: your comment'. CLOSR: All accounts between Today and My Tasks; Records menu works; My Tasks has Bulk move and a 'No task set' list; account pencil edits company details in Salesforce; snapshot shows website, phone, HQ and industry.",
+ "published": "2026-11-25T00:23:47Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
