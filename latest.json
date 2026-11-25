@@ -1,9 +1,9 @@
 {
- "version": "2.68.1",
- "file": "releases/CLOSR-update-2.68.1.closr",
- "sha256": "e2c0d18b03634e424b9eb53d1f777ec65d4209bc418cbaeba63be14b1c603fe7",
- "size": 3410424,
- "notes": "Find leads rebuilt: the 'Built from your freight' profile and Specialized freight tiles (Oversize, Hazmat, Drayage, Intermodal) are back on top; discovered companies are cleaned (individual SEC filers removed, names and cities tidied) and scored by the same lead model as your curated leads, so every lead shows the full card: score breakdown, lookalike customer, equipment and distance, public company records, Search, Who books freight, ZoomInfo, Add and Not a fit. Your best fits lead the list again.",
- "published": "2026-11-25T04:58:28Z",
+ "version": "2.68.2",
+ "file": "releases/CLOSR-update-2.68.2.closr",
+ "sha256": "c4a22fd62edbadcda84e2115be8238f4c8a46e41e364192ead5ab487a5c00fe2",
+ "size": 3414243,
+ "notes": "Find leads: Hot / Warm / Cool counts you can click to filter; 'Near your customers' on each lead (same city as a customer you ship for, or how many of your customers are in that state) with a matching sort; tick several companies and add them to My leads at once; and a Playbook under each lead with a ready pitch line built from the customers it resembles and a first-touch checklist.",
+ "published": "2026-11-25T05:05:43Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
