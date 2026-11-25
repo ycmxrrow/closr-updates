@@ -29,3 +29,13 @@ files open with Import in the top bar. Never remove this.
 
 If this repository is private and an update ships without `ghFetch`, every CLOSR that installs it can never
 update itself again.
+
+## Data lock (2.66.3) - keep it
+
+9. In `main.js`, right above `function createWindow(hidden)`: `lockOn()`, `showingLock`, `sfDownSince`, `applyLock()` and
+   `setInterval(applyLock, 3000)`. In `createWindow`, the main window loads `lockOn() ? 'lock.html' : 'index.html'` and sets
+   `showingLock = lockOn()`.
+10. `get-data`, `get-accounts` and `get-all` return `{locked: true, ...}` while `showingLock` is true.
+11. The `lock-state` / `lock-set` IPC handlers (turning the lock OFF requires sfStatus === 'Connected'), `lockState` / `lockSet`
+    in `preload.js`, the "Data lock (this computer)" checkbox (`lock-on`, `lock-st`) in `ui/index.html` + its code in
+    `ui/appbar.js`, and `ui/lock.html`. `cfg.lockNoSf` is per computer: never add it to `BK_CFG`.

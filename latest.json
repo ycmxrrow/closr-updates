@@ -1,9 +1,9 @@
 {
- "version": "2.66.2",
- "file": "releases/CLOSR-update-2.66.2.closr",
- "sha256": "f3a9365ed38c0bef92925c2a0d5a01c365b0ff58f0377e57aa13b90cf39fb615",
- "size": 3394248,
- "notes": "TRACKR opens in 2D again. It only starts in 3D when 'Open TRACKR in 3D' is switched on in the settings gear; the 3D button still works any time.",
- "published": "2026-11-25T01:27:59Z",
+ "version": "2.66.3",
+ "file": "releases/CLOSR-update-2.66.3.closr",
+ "sha256": "ef863e7e0c414a2433307caa7c2e5502eb02a18b652e3d3f2d8f64dba13bf60e",
+ "size": 3391236,
+ "notes": "Data lock (per computer): in the cloud panel, turn on \"Hide my data unless Salesforce is signed in\" and CLOSR shows a lock screen instead of your data whenever Salesforce is signed out (it can only be turned off while Salesforce is connected). Off by default. Everything else is the same as 2.66.2.",
+ "published": "2026-11-25T01:32:31Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
