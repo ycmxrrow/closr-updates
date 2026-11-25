@@ -1,9 +1,9 @@
 {
- "version": "2.67.0",
- "file": "releases/CLOSR-update-2.67.0.closr",
- "sha256": "ad2808a3c7e6222c7c96157875f12e931723f4ffa91fbeb753085f5f5c95196b",
- "size": 3399137,
- "notes": "NEWBIZ simplified: four tabs (Find leads, My leads, Track Match, Revive). Find leads is one ranked list of every new company (best fits, discovered by region, specialized freight) with a single filter row (search, source, region, type); click a company to see its full details on the right. My leads uses the same list and detail layout with level, source and sort filters. Silent accounts, open prospects, backhaul leads and follow-ups live under Revive.",
- "published": "2026-11-25T04:44:33Z",
+ "version": "2.68.0",
+ "file": "releases/CLOSR-update-2.68.0.closr",
+ "sha256": "b3d46dd228c5f445a10f000cb98cd1108ab0819be01d2ee876edd6243be7084a",
+ "size": 3408256,
+ "notes": "Settings is now a centered, see-through CLOSR panel with Notifications, Display, Email, Connections and Your data (Export/Import moved here). New notification bell (brief SCANR/TRACKR load updates) with the refresh button beside it; the SCANR title bar is gone. Route ticker under the top bar shows the trucks closest to delivery in their TRACKR colors, and SCANR rows now carry the same load colors. Two-click Sign out for Salesforce, Outlook and RingCentral; while signed out of Salesforce no data shows. My leads shows only leads you added (newest first, last 30 days by default); companies from your inbox moved to Find leads.",
+ "published": "2026-11-25T04:53:26Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
