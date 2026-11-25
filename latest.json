@@ -1,9 +1,9 @@
 {
- "version": "2.66.3",
- "file": "releases/CLOSR-update-2.66.3.closr",
- "sha256": "ef863e7e0c414a2433307caa7c2e5502eb02a18b652e3d3f2d8f64dba13bf60e",
- "size": 3391236,
- "notes": "Data lock (per computer): in the cloud panel, turn on \"Hide my data unless Salesforce is signed in\" and CLOSR shows a lock screen instead of your data whenever Salesforce is signed out (it can only be turned off while Salesforce is connected). Off by default. Everything else is the same as 2.66.2.",
- "published": "2026-11-25T01:32:31Z",
+ "version": "2.66.4",
+ "file": "releases/CLOSR-update-2.66.4.closr",
+ "sha256": "bd9ccc461a91c583b6b73df592580349814bc18da7930136f99ee7b5f2b820aa",
+ "size": 3389253,
+ "notes": "Removes the data lock from 2.66.3. Otherwise identical to 2.66.2.",
+ "published": "2026-11-25T01:35:41Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
