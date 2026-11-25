@@ -1,9 +1,9 @@
 {
- "version": "2.65.0",
- "file": "releases/CLOSR-update-2.65.0.closr",
- "sha256": "f7b00d9f2564a88ea4228a05df78be09ed38267ce36fae5c180137a7b59bea9a",
- "size": 3385538,
- "notes": "NEWBIZ: Fresh leads now holds all lead generation in one place: Discover by region (live companies by state from OpenStreetMap, SEC EDGAR and Wikidata, merged, scored for fit and filtered against your accounts and Salesforce), Best fits, Specialized freight and the full Lead generator. Leads you create in Salesforce stay in My leads (new 'Added to Salesforce' and 'Discovered' filters). New Salesforce accounts get the corporate HQ address as both Billing and Shipping, plus website, phone and description.",
- "published": "2026-11-25T01:13:41Z",
+ "version": "2.66.0",
+ "file": "releases/CLOSR-update-2.66.0.closr",
+ "sha256": "8caeeba03c20a9d84146fe2a2ec448a04cc9976b1b4930ae3ace523789563ffd",
+ "size": 3392013,
+ "notes": "Track Match (NEWBIZ): after one of your loads delivers, if the driver keeps tracking, CLOSR follows the truck to its next stop of 45+ minutes, ignores truck stops and rest areas, matches the company there (plant, warehouse, industrial site or office), weighs the carrier's equipment against the company's industry, and shows it as a lead with confidence, flagged if it's already in Salesforce. Watching ends when tracking stops or 48 hours after delivery.",
+ "published": "2026-11-25T01:17:43Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
