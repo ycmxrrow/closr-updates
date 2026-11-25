@@ -1,9 +1,9 @@
 {
- "version": "2.68.0",
- "file": "releases/CLOSR-update-2.68.0.closr",
- "sha256": "b3d46dd228c5f445a10f000cb98cd1108ab0819be01d2ee876edd6243be7084a",
- "size": 3408256,
- "notes": "Settings is now a centered, see-through CLOSR panel with Notifications, Display, Email, Connections and Your data (Export/Import moved here). New notification bell (brief SCANR/TRACKR load updates) with the refresh button beside it; the SCANR title bar is gone. Route ticker under the top bar shows the trucks closest to delivery in their TRACKR colors, and SCANR rows now carry the same load colors. Two-click Sign out for Salesforce, Outlook and RingCentral; while signed out of Salesforce no data shows. My leads shows only leads you added (newest first, last 30 days by default); companies from your inbox moved to Find leads.",
- "published": "2026-11-25T04:53:26Z",
+ "version": "2.68.1",
+ "file": "releases/CLOSR-update-2.68.1.closr",
+ "sha256": "e2c0d18b03634e424b9eb53d1f777ec65d4209bc418cbaeba63be14b1c603fe7",
+ "size": 3410424,
+ "notes": "Find leads rebuilt: the 'Built from your freight' profile and Specialized freight tiles (Oversize, Hazmat, Drayage, Intermodal) are back on top; discovered companies are cleaned (individual SEC filers removed, names and cities tidied) and scored by the same lead model as your curated leads, so every lead shows the full card: score breakdown, lookalike customer, equipment and distance, public company records, Search, Who books freight, ZoomInfo, Add and Not a fit. Your best fits lead the list again.",
+ "published": "2026-11-25T04:58:28Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
