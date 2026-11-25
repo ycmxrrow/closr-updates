@@ -1,9 +1,9 @@
 {
- "version": "2.69.0",
- "file": "releases/CLOSR-update-2.69.0.closr",
- "sha256": "0182319fcd3ef5cc5f2754e267927f1cda68250ae1eb179b92989ea1acd68ea1",
- "size": 3418614,
- "notes": "Hi-Scores is more accurate: billed loads use invoiced totals (quotes until a load bills), plus new stats for billed so far, average profit per load vs last month, revenue per mile, new customers this month and a most-customers-in-a-month record. Silent accounts now live inside Open prospects as a second full section, with a summary strip to jump between them. SCANR polished: five equal tiles (number over label), CLOSR-style underline tabs, one font system, even filters and legend, and matching header buttons.",
- "published": "2026-11-25T05:19:39Z",
+ "version": "2.69.1",
+ "file": "releases/CLOSR-update-2.69.1.closr",
+ "sha256": "683c768233c43343954f9eb2dd0dcfc5f53d488eefac6eb0079ffd3e52858af5",
+ "size": 3418718,
+ "notes": "Route tracker caption is smaller and tidier: load number in small caps, then route and miles/ETA separated by thin dividers.",
+ "published": "2026-11-25T05:25:15Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
