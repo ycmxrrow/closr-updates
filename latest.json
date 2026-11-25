@@ -1,9 +1,9 @@
 {
- "version": "2.66.4",
- "file": "releases/CLOSR-update-2.66.4.closr",
- "sha256": "bd9ccc461a91c583b6b73df592580349814bc18da7930136f99ee7b5f2b820aa",
- "size": 3389253,
- "notes": "Removes the data lock from 2.66.3. Otherwise identical to 2.66.2.",
- "published": "2026-11-25T01:35:41Z",
+ "version": "2.67.0",
+ "file": "releases/CLOSR-update-2.67.0.closr",
+ "sha256": "ad2808a3c7e6222c7c96157875f12e931723f4ffa91fbeb753085f5f5c95196b",
+ "size": 3399137,
+ "notes": "NEWBIZ simplified: four tabs (Find leads, My leads, Track Match, Revive). Find leads is one ranked list of every new company (best fits, discovered by region, specialized freight) with a single filter row (search, source, region, type); click a company to see its full details on the right. My leads uses the same list and detail layout with level, source and sort filters. Silent accounts, open prospects, backhaul leads and follow-ups live under Revive.",
+ "published": "2026-11-25T04:44:33Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
