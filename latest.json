@@ -1,9 +1,9 @@
 {
- "version": "2.64.1",
- "file": "releases/CLOSR-update-2.64.1.closr",
- "sha256": "f09aec984bf901fe72763c383f0aa5eca11ed8d11bd4f2adc3d0fed15e01f366",
- "size": 3375323,
- "notes": "Settings and Hi-Scores redesigned in CLOSR's own style: a CLOSR-red gear on the top bar (no background) opens a full-height drawer with spaced Michroma headings, red-glow switches, Hot/Warm-style score cards, a ranked personal-record leaderboard with NEW HIGH SCORE badges, glowing month bars and heat bars by equipment.",
- "published": "2026-11-25T00:49:07Z",
+ "version": "2.64.2",
+ "file": "releases/CLOSR-update-2.64.2.closr",
+ "sha256": "496b089cd9e9325f845d983173cd18172539d2f5d6421e10fe477748650be40d",
+ "size": 3375937,
+ "notes": "SCANR (and TRACKR) now read Chatter corrections: a comment under a file post like 'wrong copy', 'disregard' or 'delete this' drops that file, and a comment like 'SIGNED BOL NOT POD' or 'this is the BOL' relabels it (Load-131815 now shows the BOL received and the POD still needed).",
+ "published": "2026-11-25T00:56:39Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
