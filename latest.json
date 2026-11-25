@@ -1,9 +1,9 @@
 {
- "version": "2.66.0",
- "file": "releases/CLOSR-update-2.66.0.closr",
- "sha256": "8caeeba03c20a9d84146fe2a2ec448a04cc9976b1b4930ae3ace523789563ffd",
- "size": 3392013,
- "notes": "Track Match (NEWBIZ): after one of your loads delivers, if the driver keeps tracking, CLOSR follows the truck to its next stop of 45+ minutes, ignores truck stops and rest areas, matches the company there (plant, warehouse, industrial site or office), weighs the carrier's equipment against the company's industry, and shows it as a lead with confidence, flagged if it's already in Salesforce. Watching ends when tracking stops or 48 hours after delivery.",
- "published": "2026-11-25T01:17:43Z",
+ "version": "2.66.1",
+ "file": "releases/CLOSR-update-2.66.1.closr",
+ "sha256": "cc39db8dd2b0d44caa8810054e3c46548a72b495fd8bd5c365384f2a82b41754",
+ "size": 3394313,
+ "notes": "Hi-Scores now scores your real loads (it was asking Salesforce for the wrong user id) and groups equipment by type (Flatbed, Hotshot, Dry Van, Step Deck...). SCANR in CLOSR: restyled to match CLOSR (Michroma labels, red-edged tiles, CLOSR tabs, buttons and panels) with the SCANR logo untouched; the load search bars are gone; the Upload button now sits with each row's own buttons instead of on top of them.",
+ "published": "2026-11-25T01:25:53Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
