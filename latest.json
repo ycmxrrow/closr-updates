@@ -1,9 +1,9 @@
 {
- "version": "2.63.0",
- "file": "releases/CLOSR-update-2.63.0.closr",
- "sha256": "1df1d135ce7a92864e63975926646b5b651bdc1217caa430630df13383ab68fa",
- "size": 3364632,
- "notes": "Built on 2.62.4 (keeps automatic Google Drive backups and the GitHub key). Emails: CLOSR moves straight to the next email once Microsoft accepts one and confirms it quietly in the background; when Outlook is busy it waits and retries instead of falling back to Outlook's page, so no stray drafts. Question options: no counts; option 6 is now 'Would you be open to a quick call sometime next week to see if there's a fit?'. SCANR: bigger upload icon; Chatter posts read just 'POD' or 'POD: your comment'. CLOSR: All accounts between Today and My Tasks; Records menu works; My Tasks has Bulk move and a 'No task set' list; account pencil edits company details in Salesforce; snapshot shows website, phone, HQ and industry.",
- "published": "2026-11-25T00:23:47Z",
+ "version": "2.64.0",
+ "file": "releases/CLOSR-update-2.64.0.closr",
+ "sha256": "141787b2c7dd79c94782625d0654ab4b2f2d5603efaac73ec26f5a3f6d4bd0e2",
+ "size": 3374098,
+ "notes": "New settings gear next to the version (top right): load notifications on/off, compact layout, open TRACKR in 3D, default email template, Sync now and Connections. Inside it, a Hi-Scores stat sheet built live from your Salesforce loads: today/week/month/year/all-time profit and margin, personal records (best day, week, month, biggest load, highest margin, longest haul, shipping streak) with NEW HIGH SCORE badges, month-by-month bars with this month's pace, profit by equipment, top customers and lanes. Keeps automatic backups and the GitHub key.",
+ "published": "2026-11-25T00:38:42Z",
  "publisher_expires": "2027-01-28T16:35:11Z"
 }
